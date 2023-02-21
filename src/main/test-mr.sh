@@ -5,7 +5,7 @@
 #
 
 # un-comment this to run the tests with the Go race detector.
-# RACE=-race
+RACE=-race
 
 if [[ "$OSTYPE" = "darwin"* ]]
 then
@@ -102,26 +102,28 @@ fi
 
 # wait for remaining workers and coordinator to exit.
 wait
-exit 0
 #########################################################
 # now indexer
 rm -f mr-*
 
 # generate the correct output
 ../mrsequential ../../mrapps/indexer.so ../pg*txt || exit 1
+# ../mrsequential ../../mrapps/indexer.so ../pg-being_ernest.txt ../pg-frankenstein.txt || exit 1
 sort mr-out-0 > mr-correct-indexer.txt
 rm -f mr-out*
 
 echo '***' Starting indexer test.
 
 $TIMEOUT ../mrcoordinator ../pg*txt &
+# $TIMEOUT ../mrcoordinator ../pg-being_ernest.txt ../pg-frankenstein.txt &
 sleep 1
 
 # start multiple workers
 $TIMEOUT ../mrworker ../../mrapps/indexer.so &
-$TIMEOUT ../mrworker ../../mrapps/indexer.so
+$TIMEOUT ../mrworker ../../mrapps/indexer.so 
 
 sort mr-out* | grep . > mr-indexer-all
+# cat mr-out* | sort > mr-indexer-all
 if cmp mr-indexer-all mr-correct-indexer.txt
 then
   echo '---' indexer test: PASS
@@ -132,7 +134,6 @@ else
 fi
 
 wait
-
 #########################################################
 echo '***' Starting map parallelism test.
 
