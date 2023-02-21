@@ -1,0 +1,10013 @@
+1,3420d0
+< A 32
+< ACT 8
+< ACTUAL 1
+< AGREE 2
+< AGREEMENT 1
+< AK 1
+< AND 1
+< ANY 3
+< ANYTHING 1
+< AS 1
+< ASCII 3
+< About 3
+< Additional 1
+< Admirably 2
+< Advancing 2
+< After 5
+< Ah 9
+< Ahem 7
+< Airily 2
+< Alas 1
+< Albany 4
+< Alexander 2
+< Algernon 271
+< Algy 22
+< All 3
+< Allen 1
+< Am 2
+< Amazed 1
+< An 3
+< Anabaptists 1
+< Ancient 1
+< And 39
+< Any 1
+< Apprised 1
+< Archive 13
+< Are 3
+< Army 2
+< As 7
+< Aside 1
+< Ask 1
+< Astounded 1
+< At 7
+< August 1
+< Augusta 23
+< Aunt 24
+< Australia 4
+< Author 1
+< Aynesworth 1
+< B 5
+< BE 1
+< BEFORE 1
+< BEING 2
+< BREACH 2
+< BUT 1
+< Bankruptcy 1
+< Basket 1
+< Bayswater 1
+< Because 1
+< Begins 1
+< Being 5
+< Belgrave 3
+< Believe 1
+< Besides 9
+< Between 1
+< Bishop 1
+< Bitterly 1
+< Bloxham 2
+< Bolton 1
+< Both 2
+< Bowing 1
+< Bracknell 128
+< Bread 1
+< Breaking 1
+< Brighton 2
+< Bring 1
+< British 1
+< Brother 2
+< Brut 1
+< Bunbury 39
+< Bunburyed 1
+< Bunburying 6
+< Bunburyist 9
+< Bunburyists 1
+< But 63
+< Butler 1
+< By 3
+< C 2
+< CONSEQUENTIAL 1
+< CONTRACT 1
+< Cake 2
+< Calling 1
+< Calmly 1
+< Can 3
+< Canninge 1
+< Cannot 1
+< Canon 5
+< Captain 1
+< Cardew 30
+< Catches 1
+< Catching 1
+< Cathedral 1
+< Cecily 256
+< Certainly 7
+< Character 1
+< Charity 1
+< Charming 2
+< Chasuble 63
+< Cheerily 1
+< Chief 1
+< Child 1
+< Christian 8
+< Church 3
+< City 1
+< Clasps 1
+< Club 1
+< Co 1
+< Colonel 2
+< Come 6
+< Comedy 2
+< Coming 1
+< Compliance 1
+< Considering 1
+< Contact 1
+< Continuing 1
+< Contributions 1
+< Copyright 1
+< Could 1
+< Couldn 3
+< Court 3
+< Cousin 1
+< Creating 1
+< Crossing 1
+< Cuts 2
+< D 5
+< DAMAGE 1
+< DAMAGES 2
+< DIRECT 1
+< DISCLAIMER 1
+< DISTRIBUTE 1
+< DISTRIBUTOR 1
+< DONATIONS 1
+< DROP 2
+< Darling 5
+< Date 1
+< David 1
+< Dead 2
+< Dear 5
+< Dearest 1
+< Defect 1
+< Defects 1
+< Despite 1
+< Detestable 1
+< Did 5
+< Didn 1
+< Director 1
+< Discontent 1
+< Disloyalty 1
+< Divorce 1
+< Divorces 1
+< Do 15
+< Doctor 4
+< Domain 1
+< Don 1
+< Donations 2
+< Dorking 1
+< Dr 20
+< Drama 1
+< Drawing 3
+< Draws 1
+< Duchess 1
+< Dumbleton 1
+< Dyall 1
+< E 22
+< EARNEST 2
+< EBOOK 2
+< EIN 1
+< END 1
+< EVEN 1
+< EXCEPT 1
+< EXPRESS 1
+< Earnest 4
+< Eating 1
+< Economy 2
+< Egeria 2
+< Eh 1
+< Eighteen 1
+< Email 1
+< Embraces 3
+< Embracing 1
+< Empire 1
+< England 1
+< English 3
+< Enter 32
+< Enthusiastically 1
+< Ernest 82
+< Especially 1
+< Evelyn 1
+< Even 2
+< Evensong 1
+< Every 4
+< Everybody 1
+< Everything 1
+< Examine 1
+< Examines 1
+< Except 2
+< Exchanges 1
+< Executive 1
+< Exit 4
+< Exploded 1
+< Extension 1
+< F 12
+< FIRST 1
+< FITNESS 1
+< FOR 3
+< FOUNDATION 1
+< FULL 2
+< Fairbanks 1
+< Fairfax 23
+< Fall 1
+< Farquhar 2
+< February 3
+< Few 2
+< Fiction 1
+< Fifeshire 1
+< Finally 1
+< Finished 1
+< Five 1
+< Flat 1
+< Follows 1
+< For 9
+< Fortunately 2
+< Found 1
+< Foundation 24
+< Frank 1
+< Frederick 1
+< French 4
+< From 6
+< Frowning 1
+< Full 1
+< Funds 2
+< GIVE 1
+< GUTENBERG 4
+< Garden 2
+< General 8
+< Generals 1
+< Geography 1
+< George 3
+< Gerald 1
+< German 11
+< Gervase 1
+< Girls 1
+< Glares 1
+< Glibly 1
+< Go 1
+< Goes 11
+< Good 12
+< Goodbye 1
+< Gorgon 2
+< Got 1
+< Governess 1
+< Gower 1
+< Grand 1
+< Gravely 2
+< Gregory 1
+< Grimly 1
+< Grosvenor 2
+< Guide 1
+< Guides 1
+< Gutenberg 82
+< Gwendolen 178
+< H 2
+< HAVE 1
+< Had 1
+< Half 3
+< Hallo 1
+< Hand 1
+< Handing 1
+< Hands 2
+< Harbury 2
+< Hart 2
+< Have 2
+< He 30
+< Health 1
+< Heaven 2
+< Her 2
+< Here 4
+< Hertfordshire 2
+< Hesitation 1
+< His 4
+< History 2
+< Hon 2
+< Hopelessly 1
+< Horrid 3
+< Hotel 1
+< House 5
+< How 18
+< However 9
+< I 831
+< IF 1
+< II 1
+< III 1
+< IMPLIED 1
+< IMPORTANCE 2
+< IN 2
+< INCIDENTAL 1
+< INCLUDING 1
+< INDEMNITY 1
+< INDIRECT 1
+< IRS 1
+< IS 1
+< ISO 1
+< Idle 1
+< If 33
+< Ignorance 1
+< Illness 1
+< Immersion 1
+< Importance 4
+< Impossible 1
+< In 34
+< Indeed 10
+< Indian 1
+< Influence 1
+< Information 5
+< Inquiringly 1
+< Inspects 1
+< Internal 1
+< International 1
+< Interposing 1
+< Irene 1
+< Irritably 2
+< Is 8
+< Isn 1
+< It 101
+< Its 1
+< J 2
+< JAMES 1
+< Jack 289
+< Jacks 1
+< James 1
+< Jenkins 1
+< John 11
+< Jouet 1
+< July 1
+< Just 1
+< KIND 1
+< Kindly 1
+< Kinsey 1
+< Kisses 2
+< Kneels 1
+< LIABILITY 1
+< LIABLE 1
+< LICENSE 2
+< LIMITED 3
+< LONDON 1
+< Lady 128
+< Laetitia 2
+< Lake 1
+< Lancing 1
+< Lane 48
+< Language 1
+< Languidly 1
+< Laughing 2
+< Leamington 1
+< Leclercq 1
+< Lessee 1
+< Let 4
+< Liberal 1
+< License 10
+< Lieutenant 2
+< Life 2
+< Lists 2
+< Literary 14
+< Lives 1
+< London 13
+< Looking 5
+< Looks 3
+< Lord 7
+< Lots 1
+< Ltd 1
+< M 1
+< MERCHANTIBILITY 1
+< Magley 1
+< Makes 1
+< Mallam 1
+< Mamma 3
+< Manager 1
+< Manor 5
+< Manservant 1
+< Many 1
+< March 2
+< Marechal 1
+< Markby 8
+< Married 1
+< Mary 2
+< Maturity 1
+< Maxbohm 1
+< May 8
+< Me 1
+< Meditatively 2
+< Melan 1
+< Memory 2
+< Men 1
+< Merely 1
+< Merriman 36
+< Messrs 1
+< Methuen 1
+< Metropolitan 1
+< Michael 2
+< Might 1
+< Migsby 1
+< Millard 1
+< Miss 132
+< Mission 1
+< Mississippi 1
+< Mobbs 1
+< Modern 2
+< Moncrieff 11
+< Monday 7
+< Moon 2
+< More 2
+< Morning 3
+< Most 1
+< Mother 1
+< Motions 1
+< Moulton 1
+< Moving 5
+< Mr 88
+< Mrs 2
+< Much 1
+< Mudie 1
+< My 44
+< N 1
+< NEGLIGENCE 1
+< NO 2
+< NOT 2
+< NOTICE 1
+< Nature 1
+< Nearly 1
+< Nervously 2
+< Never 6
+< Newby 1
+< Niel 1
+< No 19
+< Nobody 1
+< Noises 1
+< None 2
+< Nor 1
+< North 1
+< Not 3
+< Nothing 5
+< Now 7
+< Number 1
+< OF 13
+< OR 6
+< OTHER 1
+< OWNER 1
+< Of 15
+< Offering 1
+< Offers 3
+< Oh 59
+< Old 1
+< On 7
+< One 5
+< Only 3
+< Opens 1
+< Opera 1
+< Or 1
+< Orders 1
+< Oscar 2
+< Our 3
+< Outside 1
+< Oxonian 1
+< P 2
+< PARAGRAPH 1
+< PERSONS 1
+< PG 1
+< PGLAF 1
+< PLAY 2
+< PLEASE 1
+< POSSIBILITY 1
+< PROJECT 4
+< PROVIDED 1
+< PUNITIVE 1
+< PURPOSE 1
+< Pagan 1
+< Pardon 1
+< Paris 6
+< Park 2
+< Particularly 1
+< Passionately 1
+< Peile 1
+< Pencil 1
+< People 4
+< Perfectly 2
+< Perhaps 2
+< Perrier 1
+< Personally 2
+< Picking 3
+< Picks 2
+< Plain 2
+< Pleasantly 1
+< Please 2
+< Pointing 1
+< Points 1
+< Political 2
+< Poor 2
+< Post 1
+< Pray 8
+< Present 1
+< Presenting 1
+< Pretty 1
+< Prevention 1
+< Price 1
+< Primitive 2
+< Prism 86
+< Produces 1
+< Professor 1
+< Project 82
+< Public 1
+< Pulling 1
+< Pulls 1
+< Puts 4
+< Quite 6
+< Quixotic 1
+< READ 1
+< REFUND 1
+< REMEDIES 1
+< REPLACEMENT 1
+< RIGHT 1
+< Radical 1
+< Railway 1
+< Raising 2
+< Rather 2
+< Reading 1
+< Really 3
+< Receding 1
+< Recoiling 1
+< Rector 3
+< Rectory 1
+< Redistributing 1
+< Redistribution 1
+< Refund 1
+< Relations 1
+< Release 1
+< Replacement 1
+< Replaces 1
+< Reproachfully 1
+< Retreating 1
+< Rev 2
+< Revenue 1
+< Revolution 1
+< Right 1
+< Rings 1
+< Ripeness 1
+< Rise 1
+< Rises 2
+< Rising 8
+< Room 1
+< Rose 1
+< Royalty 2
+< Runs 1
+< Rupee 1
+< Rushes 1
+< Rushing 1
+< S 7
+< SCENE 3
+< SCENES 1
+< SECOND 1
+< SEND 1
+< ST 1
+< START 2
+< STRICT 1
+< SUCH 1
+< Salt 1
+< Satirically 1
+< Saturday 3
+< Scheme 1
+< Science 1
+< Scotland 1
+< Section 7
+< Sections 1
+< See 2
+< Sees 1
+< Seizes 1
+< Sententiously 2
+< Serious 3
+< Service 1
+< Severely 4
+< Shakes 4
+< Shaking 3
+< Shall 1
+< She 13
+< Shoreman 1
+< Shows 2
+< Shropshire 5
+< Sinks 1
+< Sit 2
+< Sits 1
+< Sitting 4
+< Slowly 2
+< Smiling 1
+< So 6
+< Society 2
+< Some 2
+< Something 1
+< Sometimes 1
+< Somewhat 2
+< Speaking 3
+< Special 1
+< Sporran 1
+< Sprinkling 1
+< Square 4
+< Stammering 1
+< Standing 1
+< Starting 1
+< States 10
+< Station 2
+< Sternly 2
+< Stiffly 1
+< Still 3
+< Street 4
+< Style 1
+< Sugar 2
+< Sunday 2
+< Superciliously 1
+< Surely 1
+< Surprised 1
+< Surrey 1
+< Sussex 1
+< Sweetly 2
+< TABLEAU 1
+< THAT 2
+< THE 12
+< THEATRE 1
+< THIRD 1
+< THIS 3
+< THOSE 1
+< TIME 1
+< TO 2
+< TRADEMARK 1
+< Takes 6
+< Taking 1
+< Tell 2
+< Terminus 1
+< Terms 2
+< Thank 15
+< Thanks 2
+< That 46
+< The 89
+< Their 1
+< Then 13
+< There 22
+< These 2
+< They 32
+< Thirty 1
+< This 24
+< Thomas 4
+< Thought 1
+< Thoughtfully 1
+< Three 2
+< Thursday 3
+< Thus 1
+< Till 1
+< Time 1
+< Title 1
+< To 32
+< Tories 1
+< Transcribed 1
+< Tries 1
+< Trivial 2
+< True 2
+< Tunbridge 3
+< Turns 1
+< Twenty 2
+< U 3
+< UNDER 1
+< US 2
+< USE 1
+< UT 1
+< Uncle 20
+< Under 1
+< Unionist 1
+< United 10
+< University 2
+< Unless 1
+< Unmarried 1
+< Until 1
+< Untruthful 1
+< Updated 1
+< Upon 2
+< Upper 2
+< Use 2
+< Vanbrugh 1
+< Vanilla 2
+< Very 7
+< Victoria 3
+< Vincent 1
+< Volunteers 1
+< W 3
+< WARRANTIES 2
+< WARRANTY 2
+< WILL 1
+< WITH 1
+< WORK 1
+< Wagnerian 1
+< Was 4
+< We 15
+< Web 3
+< Wedding 1
+< Wednesday 1
+< Well 46
+< Wells 3
+< Were 2
+< West 1
+< What 44
+< Whatever 2
+< When 11
+< Whenever 1
+< Where 7
+< Which 2
+< While 2
+< Who 5
+< Why 15
+< Wilde 2
+< Will 2
+< Willis 3
+< With 5
+< Women 1
+< Won 3
+< Woolton 3
+< Worn 1
+< Worthing 64
+< Would 1
+< Writes 1
+< YOU 6
+< Yard 1
+< Yes 61
+< You 103
+< Young 1
+< Your 21
+< a 442
+< aback 2
+< abandoned 1
+< abide 1
+< able 7
+< about 73
+< above 1
+< abroad 1
+< absence 4
+< absolute 6
+< absolutely 6
+< abstraction 1
+< absurd 11
+< absurdly 1
+< abused 1
+< accept 2
+< accepted 4
+< accepting 1
+< accepts 1
+< access 10
+< accessed 1
+< accessible 1
+< accompany 1
+< accordance 2
+< according 2
+< account 1
+< accounts 4
+< accumulation 1
+< accurate 1
+< accurately 2
+< accustomed 1
+< acquire 1
+< acres 1
+< across 4
+< act 1
+< acted 1
+< action 2
+< active 2
+< acts 1
+< actual 1
+< actually 4
+< adapted 1
+< addition 1
+< additional 3
+< additions 1
+< address 5
+< addresses 3
+< adjoining 1
+< admirable 3
+< admire 1
+< admired 1
+< admission 2
+< admit 7
+< admitting 1
+< adopt 2
+< adopted 1
+< adore 2
+< adults 1
+< advanced 3
+< advancing 1
+< advantage 1
+< advice 1
+< advisable 2
+< advise 4
+< affect 1
+< affectionate 1
+< affections 2
+< affliction 1
+< afraid 15
+< after 25
+< afternoon 16
+< afterwards 1
+< again 7
+< against 3
+< age 15
+< aged 1
+< agent 1
+< agitated 2
+< ago 5
+< agree 7
+< agreed 1
+< agreement 17
+< agricultural 1
+< ailment 1
+< aim 1
+< air 2
+< alarm 1
+< alienating 1
+< all 107
+< alliance 2
+< allow 10
+< allowed 5
+< allowing 2
+< allude 1
+< alluring 1
+< allusion 2
+< almost 9
+< alone 3
+< along 1
+< already 11
+< also 8
+< alter 2
+< alteration 2
+< altered 2
+< alternate 1
+< although 2
+< altogether 1
+< always 44
+< am 108
+< amazement 3
+< among 1
+< amongst 1
+< amount 1
+< amuse 2
+< amused 1
+< amusement 1
+< amuses 2
+< an 58
+< analogies 1
+< and 316
+< angel 1
+< angrily 1
+< anguish 1
+< announcement 1
+< annoyed 1
+< annoys 1
+< another 2
+< answer 4
+< answers 1
+< anxiety 1
+< anxious 6
+< anxiously 1
+< any 106
+< anybody 7
+< anyone 6
+< anything 19
+< anywhere 7
+< apoplexy 2
+< appealingly 1
+< appear 5
+< appearance 1
+< appearing 1
+< appears 2
+< appetite 2
+< applicable 3
+< apply 1
+< appointment 2
+< appreciate 1
+< apprehensions 1
+< approach 1
+< approaches 3
+< approaching 1
+< approve 5
+< arduous 1
+< are 162
+< aren 2
+< argue 2
+< argument 1
+< arguments 1
+< arise 1
+< aristocracy 2
+< aristocratic 1
+< arm 1
+< arms 2
+< arrange 2
+< arrangements 3
+< arranging 1
+< array 1
+< arrive 1
+< arrived 2
+< arrives 1
+< artistically 1
+< as 105
+< ask 17
+< asked 3
+< aspect 1
+< assistance 2
+< associated 9
+< assumed 1
+< assured 1
+< astonishment 1
+< astounded 1
+< astray 1
+< at 161
+< attached 2
+< attempt 1
+< attending 1
+< attention 2
+< attentive 1
+< attentively 1
+< attitude 1
+< attractive 7
+< attribute 1
+< aunt 12
+< aunts 2
+< authenticity 1
+< authors 1
+< available 2
+< average 1
+< await 1
+< aware 5
+< away 8
+< awfully 1
+< b 1
+< babies 1
+< baby 7
+< bachelor 1
+< bachelors 1
+< back 29
+< bad 13
+< badly 2
+< bag 18
+< bangle 1
+< baptism 2
+< baptized 1
+< barrier 1
+< based 2
+< basinette 1
+< basis 1
+< basket 1
+< be 176
+< bear 1
+< beastly 1
+< beats 2
+< beautiful 2
+< beauty 3
+< because 4
+< become 5
+< becomes 3
+< becoming 3
+< bed 1
+< bedrooms 1
+< been 66
+< bees 1
+< before 15
+< beg 9
+< begin 1
+< beginning 1
+< begins 5
+< behalf 1
+< behave 3
+< behaved 2
+< behaving 1
+< behind 2
+< being 16
+< believe 11
+< bell 3
+< below 5
+< bends 1
+< best 4
+< bet 1
+< betoken 1
+< better 14
+< between 5
+< beverage 1
+< bewildered 1
+< beyond 1
+< bills 1
+< binary 1
+< birth 3
+< bites 1
+< bitter 1
+< black 3
+< blessing 1
+< blessings 1
+< bloom 1
+< blow 3
+< blue 3
+< blurt 1
+< book 6
+< bookcase 1
+< books 3
+< bore 2
+< bored 2
+< bores 1
+< boring 1
+< born 2
+< both 12
+< bother 1
+< bottle 1
+< bottles 2
+< bought 1
+< bound 6
+< bowed 1
+< bows 3
+< box 3
+< boxes 1
+< boy 13
+< brand 1
+< branded 1
+< bread 7
+< break 3
+< bred 1
+< brief 2
+< brightly 1
+< brilliant 1
+< bring 2
+< brings 1
+< broke 2
+< broken 3
+< brokers 1
+< brother 52
+< brothers 2
+< brought 3
+< brow 1
+< buried 1
+< business 11
+< but 55
+< butler 1
+< butter 9
+< buttonhole 3
+< buy 3
+< by 53
+< c 2
+< cake 8
+< calamity 1
+< calculate 1
+< calculated 1
+< calculating 1
+< call 15
+< called 12
+< calling 1
+< calls 3
+< calm 1
+< calmly 3
+< came 2
+< can 67
+< candid 1
+< candidly 3
+< candour 1
+< cannot 14
+< canonical 1
+< capacious 1
+< capital 1
+< card 5
+< cards 1
+< care 9
+< cared 1
+< careful 2
+< carefully 5
+< careless 1
+< carelessness 1
+< carriage 4
+< carried 2
+< carries 1
+< carry 2
+< cart 4
+< carter 1
+< case 21
+< cases 1
+< cast 1
+< catch 2
+< caught 1
+< cause 4
+< caused 2
+< ccx 1
+< cease 2
+< ceased 2
+< celebrations 1
+< celibacy 2
+< celibate 1
+< ceremonials 1
+< ceremonies 1
+< ceremony 1
+< certain 4
+< certainly 16
+< certificates 1
+< chafe 1
+< chair 2
+< chairs 1
+< champagne 3
+< chance 2
+< change 6
+< changeable 1
+< changed 2
+< chaps 1
+< chapter 1
+< character 8
+< charge 8
+< charges 1
+< charitable 3
+< charities 1
+< charity 2
+< charming 4
+< charms 1
+< check 2
+< checks 1
+< cheek 2
+< cheerily 1
+< chief 1
+< chiefly 1
+< child 10
+< childish 2
+< children 2
+< chill 6
+< chin 2
+< choice 1
+< choose 4
+< chooses 1
+< christen 1
+< christened 17
+< christening 3
+< christenings 5
+< chronicle 1
+< chronicles 1
+< church 1
+< cigarette 12
+< circle 1
+< circumstances 2
+< civilised 1
+< claim 2
+< class 3
+< classes 2
+< classical 1
+< clean 1
+< clear 4
+< cleared 2
+< clearly 4
+< clever 6
+< cleverness 1
+< climate 1
+< cloak 5
+< clock 1
+< close 1
+< closely 1
+< cloth 2
+< clothes 4
+< cloud 1
+< codes 1
+< coin 1
+< coincidences 1
+< cold 1
+< coldly 1
+< coldness 2
+< collection 4
+< colour 2
+< come 22
+< comes 1
+< comfortable 1
+< coming 5
+< commended 1
+< comment 1
+< comments 1
+< commerce 1
+< commercial 1
+< committed 1
+< common 2
+< communicate 1
+< communication 1
+< companion 1
+< company 1
+< comparatively 2
+< competition 1
+< compilation 1
+< complaining 1
+< complete 1
+< completely 3
+< compliance 4
+< comply 6
+< complying 3
+< compressed 1
+< computer 2
+< computers 2
+< conceal 1
+< conceited 1
+< concept 2
+< concerned 3
+< concerning 2
+< conclusion 1
+< condolence 1
+< conduce 1
+< conduct 4
+< confess 1
+< confessed 1
+< confidence 5
+< confidingly 1
+< confirmation 2
+< confirmations 1
+< confirmed 3
+< connected 3
+< conscious 1
+< consent 8
+< consequence 1
+< consequently 2
+< consider 3
+< considerable 2
+< considerably 2
+< consideration 2
+< considered 1
+< considering 1
+< consolation 1
+< consoles 1
+< constant 4
+< constantly 1
+< consternation 1
+< constituted 1
+< constitution 1
+< consumed 1
+< contact 4
+< contain 2
+< contained 3
+< containing 1
+< contempt 1
+< content 1
+< continually 1
+< continues 2
+< contrary 1
+< contributions 1
+< conversation 3
+< convert 1
+< converts 1
+< convincing 1
+< convulsively 1
+< copied 2
+< copies 7
+< copy 14
+< copying 4
+< copyright 13
+< corner 2
+< corporation 1
+< corrupt 2
+< cost 3
+< costs 2
+< cottages 1
+< cough 6
+< coughs 1
+< could 22
+< couldn 7
+< count 1
+< counties 2
+< countries 1
+< country 20
+< county 2
+< couples 1
+< courage 1
+< course 31
+< cousin 10
+< covered 1
+< cowardly 1
+< crape 1
+< created 2
+< creating 3
+< creation 1
+< credit 2
+< creditors 1
+< credulity 1
+< critical 1
+< criticism 1
+< cross 1
+< crosses 1
+< crossing 1
+< crowded 1
+< crowds 1
+< crumpets 1
+< crush 1
+< crushed 1
+< crying 1
+< cucumber 5
+< cucumbers 3
+< cuff 2
+< cuffs 1
+< cultivated 1
+< culture 2
+< cup 3
+< cups 1
+< curious 1
+< curiously 2
+< curls 1
+< current 1
+< custom 1
+< customary 1
+< cut 1
+< cynical 2
+< d 4
+< daily 2
+< damage 1
+< damaged 1
+< damages 2
+< danger 1
+< dangerous 1
+< dare 2
+< dared 1
+< daresay 2
+< darling 9
+< data 1
+< date 2
+< daughter 5
+< day 12
+< days 8
+< dead 3
+< deal 1
+< dear 59
+< dearest 1
+< death 6
+< debonnair 1
+< debts 2
+< decay 1
+< deceitful 1
+< deceived 1
+< deceiving 2
+< decencies 1
+< decent 1
+< deception 3
+< decide 1
+< decided 1
+< decision 3
+< decline 2
+< deductible 1
+< deep 1
+< deeper 1
+< deepest 1
+< defect 2
+< defective 3
+< defence 1
+< definite 4
+< degree 1
+< deletions 1
+< delicate 1
+< delight 2
+< delighted 1
+< delightful 5
+< delivered 1
+< demand 1
+< demeanour 1
+< demonstrative 1
+< demoralising 1
+< dentist 3
+< dentists 1
+< deny 5
+< departure 1
+< depend 2
+< depended 1
+< depends 6
+< deposit 1
+< deposited 2
+< depress 1
+< depression 1
+< derivative 3
+< derive 1
+< derived 1
+< described 1
+< deserve 1
+< desire 5
+< desires 1
+< desirous 1
+< desperate 1
+< destined 1
+< destiny 1
+< destroy 2
+< detach 1
+< details 1
+< detain 1
+< determine 1
+< determined 2
+< develop 1
+< developments 1
+< devoted 1
+< devotedly 2
+< devotion 1
+< devoured 1
+< diary 14
+< dictating 1
+< dictation 1
+< did 18
+< didn 5
+< die 6
+< died 5
+< different 5
+< difficulty 1
+< dignified 2
+< dine 8
+< dined 2
+< dining 4
+< dinner 7
+< direction 1
+< directions 1
+< directly 1
+< directory 1
+< dirs 1
+< disappear 1
+< disappointed 1
+< disappointment 4
+< disclaim 1
+< disclaimer 2
+< disclaimers 1
+< discontinue 1
+< discover 1
+< discovered 3
+< discuss 1
+< disgraceful 3
+< disguise 1
+< dish 2
+< disk 1
+< dislike 1
+< disliking 1
+< disown 1
+< display 2
+< displayed 1
+< displaying 5
+< displeased 1
+< disposition 2
+< disrespectfully 1
+< distasteful 2
+< distinct 2
+< distinctly 3
+< distress 1
+< distressed 1
+< distressing 2
+< distribute 5
+< distributed 4
+< distributing 7
+< distribution 6
+< distrusted 1
+< disturb 1
+< divine 1
+< do 80
+< doctors 1
+< does 25
+< doesn 3
+< dog 4
+< doing 3
+< domain 7
+< domestic 3
+< domesticity 1
+< don 76
+< donate 5
+< donation 1
+< donations 12
+< done 5
+< donors 1
+< door 3
+< doting 1
+< double 1
+< doubt 9
+< doubted 1
+< doubts 2
+< down 29
+< downloading 1
+< drank 1
+< draughts 1
+< drawing 1
+< drawn 4
+< dreadful 3
+< dream 2
+< dreamed 1
+< dress 4
+< dressed 3
+< dressing 2
+< drew 1
+< drink 2
+< drinks 1
+< drive 2
+< driven 1
+< during 3
+< duties 4
+< duty 8
+< dying 1
+< e 1
+< eBook 8
+< eBooks 7
+< each 10
+< earlier 1
+< earnest 1
+< earth 12
+< easily 2
+< easy 3
+< eat 9
+< eating 7
+< eats 1
+< eccentric 1
+< edition 2
+< editions 4
+< educated 1
+< education 4
+< educational 1
+< effect 3
+< effeminate 1
+< effort 3
+< efforts 3
+< effrontery 1
+< eight 4
+< eighteen 3
+< either 10
+< elaborate 2
+< elder 3
+< elderly 1
+< eldest 1
+< elect 1
+< electric 1
+< electronic 27
+< electronically 2
+< eligible 2
+< else 14
+< email 3
+< embrace 2
+< embracing 1
+< emigrating 2
+< emotional 1
+< employee 1
+< employees 2
+< empty 1
+< encoding 1
+< encourage 1
+< encouraged 1
+< encouraging 1
+< end 6
+< ended 1
+< endure 1
+< engaged 20
+< engagement 10
+< engagements 2
+< enjoyment 1
+< enjoys 1
+< enormously 1
+< enough 9
+< ensure 1
+< ensuring 1
+< entanglement 2
+< enter 3
+< entered 1
+< enters 4
+< enthusiastic 1
+< entire 2
+< entirely 7
+< entity 3
+< entrancing 1
+< entrapped 2
+< entry 1
+< envelopes 1
+< epidemic 1
+< equality 1
+< equally 1
+< equanimity 1
+< equipment 3
+< error 3
+< errors 2
+< escape 1
+< especially 5
+< essence 1
+< essentially 1
+< establishment 1
+< estate 1
+< esteemed 1
+< eternal 1
+< even 18
+< evening 3
+< ever 30
+< every 9
+< everything 5
+< evidence 1
+< evidently 1
+< exacted 1
+< exactly 6
+< examines 1
+< examining 1
+< example 1
+< examples 1
+< excellent 1
+< except 6
+< exception 1
+< excesses 2
+< excessively 3
+< excitement 2
+< exciting 2
+< exclusion 1
+< excuse 2
+< exempt 2
+< exercises 1
+< exist 1
+< existence 1
+< exists 1
+< exotic 1
+< expect 1
+< expected 6
+< expend 1
+< expense 1
+< expenses 2
+< expensive 1
+< experience 2
+< experienced 3
+< experiences 1
+< explanation 6
+< explanations 1
+< exploded 2
+< explosion 1
+< exporting 1
+< expose 1
+< expressed 2
+< expressing 1
+< expression 3
+< expressly 1
+< expurgations 1
+< exquisitely 1
+< extent 1
+< extraordinary 4
+< extravagance 2
+< extravagant 1
+< extremely 11
+< eyes 1
+< face 2
+< facility 1
+< fact 29
+< facts 2
+< fair 2
+< fall 1
+< false 3
+< families 3
+< family 5
+< fancy 1
+< far 10
+< fascination 2
+< fashion 1
+< fashionable 1
+< fashioned 2
+< fast 2
+< father 7
+< faults 2
+< favour 3
+< favourable 1
+< fear 4
+< fearful 2
+< federal 2
+< fee 8
+< feel 10
+< feeling 1
+< feelings 1
+< feels 1
+< fees 4
+< fell 1
+< fellow 12
+< felt 5
+< female 2
+< festal 1
+< few 7
+< fibres 1
+< fiction 1
+< fifteen 2
+< fifty 2
+< file 2
+< files 2
+< filled 1
+< finally 1
+< financial 1
+< find 5
+< finding 1
+< finds 1
+< fine 1
+< finger 1
+< fingers 1
+< finished 2
+< fireplace 1
+< firm 3
+< first 22
+< five 15
+< fix 1
+< fixed 1
+< flat 1
+< flight 2
+< flirt 3
+< flirts 2
+< flower 1
+< flowers 5
+< fluently 1
+< follow 2
+< followed 4
+< following 5
+< folly 1
+< fond 6
+< fondest 2
+< food 1
+< foolish 3
+< fools 3
+< foot 1
+< footman 2
+< for 158
+< forbid 1
+< forced 2
+< forgave 1
+< forget 2
+< forgive 6
+< forgiving 1
+< forgotten 4
+< form 8
+< format 4
+< formats 2
+< formed 1
+< forte 2
+< forth 8
+< fortunate 1
+< fortune 2
+< forty 3
+< forward 4
+< found 9
+< four 4
+< frankly 5
+< frankness 1
+< frantic 2
+< free 7
+< freely 4
+< frequently 1
+< friend 8
+< friends 4
+< friendship 1
+< frightened 1
+< from 59
+< fruit 1
+< fruits 1
+< full 12
+< fully 2
+< fun 1
+< fundraising 3
+< furious 2
+< furnished 1
+< further 1
+< future 7
+< garb 1
+< garden 11
+< gave 1
+< gay 1
+< gbnewby 1
+< generations 2
+< generous 2
+< gentleman 6
+< gentlemen 1
+< gentleness 1
+< geology 1
+< get 16
+< gets 2
+< ghastly 3
+< girl 19
+< girlish 1
+< girls 4
+< give 17
+< given 7
+< gives 1
+< glad 10
+< gladly 1
+< glances 1
+< glare 2
+< glares 3
+< glass 1
+< glasses 1
+< gloves 2
+< go 28
+< goals 1
+< goes 18
+< going 15
+< gold 1
+< gone 3
+< good 27
+< goodness 4
+< got 16
+< govern 1
+< governess 2
+< grammar 1
+< grand 2
+< grandfather 1
+< granted 1
+< gratefully 1
+< grave 3
+< gravest 1
+< gravity 1
+< great 14
+< greatly 1
+< greedy 1
+< green 1
+< grey 1
+< grief 2
+< grieved 1
+< grimace 1
+< groan 1
+< groans 1
+< gross 2
+< grotesque 2
+< grounds 1
+< group 1
+< growing 1
+< grows 2
+< guarantee 1
+< guardian 14
+< guest 2
+< guests 1
+< guidance 1
+< gutenberg 10
+< had 61
+< hadn 2
+< hair 5
+< half 8
+< hand 33
+< handles 2
+< hands 7
+< hang 1
+< happen 2
+< happened 3
+< happens 1
+< happier 1
+< happily 3
+< happiness 3
+< happy 4
+< hard 6
+< hardly 17
+< harmless 1
+< harvest 1
+< has 74
+< hat 3
+< hatband 1
+< hate 6
+< have 206
+< haven 10
+< having 5
+< he 67
+< head 7
+< headache 4
+< health 6
+< hear 12
+< heard 6
+< hearing 2
+< heartless 6
+< heaven 1
+< heavens 9
+< help 5
+< helping 1
+< her 86
+< here 31
+< hereditary 3
+< heretical 1
+< herself 6
+< hesitatingly 1
+< hesitation 1
+< high 5
+< higher 2
+< highest 2
+< highly 1
+< hills 1
+< him 39
+< himself 5
+< his 66
+< hold 2
+< holder 4
+< holding 1
+< holds 1
+< home 3
+< honour 1
+< hope 18
+< hopelessly 2
+< horrible 1
+< horrid 3
+< horror 2
+< horticulturally 1
+< hospitality 1
+< hour 9
+< hourly 1
+< hours 1
+< house 18
+< household 1
+< households 1
+< housekeeper 1
+< houses 1
+< how 18
+< however 4
+< http 7
+< humble 1
+< humiliation 1
+< hundred 5
+< hundreds 1
+< hungry 2
+< hurriedly 1
+< hurt 1
+< husband 5
+< husbands 1
+< hypertext 1
+< hypocrisy 1
+< icy 1
+< idea 8
+< ideal 1
+< ideals 1
+< ideas 2
+< identification 1
+< identify 1
+< idiotic 1
+< idle 1
+< if 67
+< ignorance 2
+< ill 2
+< imagine 2
+< immaterial 1
+< immediate 3
+< immediately 2
+< immensely 2
+< immersion 1
+< immoderately 1
+< immoral 1
+< impatient 1
+< impetuous 1
+< implied 1
+< importance 5
+< important 7
+< imposed 1
+< impossibility 1
+< impossible 1
+< impression 2
+< impressions 3
+< improbable 2
+< improper 1
+< improve 2
+< improvement 1
+< improvements 1
+< in 329
+< inaccurate 1
+< inattentive 1
+< incident 3
+< include 1
+< included 3
+< includes 1
+< including 8
+< income 3
+< incomparable 2
+< incomplete 1
+< incomprehensible 1
+< inconvenience 1
+< increase 1
+< increasing 1
+< indecorous 1
+< indeed 12
+< indemnify 1
+< indicate 1
+< indicating 1
+< indifferent 2
+< indigestion 1
+< indignant 3
+< indignantly 2
+< indignation 3
+< indirectly 1
+< indiscretion 1
+< individual 4
+< induce 2
+< inexcusable 2
+< inexperienced 1
+< infant 2
+< infinitely 1
+< influence 5
+< inform 3
+< information 5
+< informed 2
+< infringement 1
+< initials 1
+< injury 1
+< innocent 2
+< inquiries 1
+< inquiry 1
+< inquisitive 1
+< inscription 1
+< inside 2
+< insist 1
+< inspection 1
+< inspire 2
+< inspires 3
+< instance 4
+< instead 1
+< instinct 1
+< instinctively 2
+< insuperable 1
+< intellectual 5
+< intend 5
+< intended 1
+< intention 2
+< interested 6
+< interesting 3
+< interfered 1
+< interferes 1
+< interment 1
+< interpreted 1
+< interrupting 2
+< intimately 1
+< into 30
+< introduce 1
+< introduced 2
+< intrude 1
+< invalid 6
+< invalidity 1
+< invalids 1
+< invaluable 3
+< invariably 2
+< invented 3
+< investigations 1
+< investments 2
+< invitations 2
+< invited 1
+< involuntary 1
+< irreligious 1
+< irresistible 2
+< irretrievably 1
+< irrevocable 1
+< irritably 1
+< is 428
+< isn 16
+< it 198
+< its 9
+< itself 1
+< jacket 1
+< join 1
+< journey 1
+< joyful 2
+< judgments 1
+< judicial 1
+< just 20
+< keep 9
+< keeping 3
+< kept 1
+< kill 2
+< killed 1
+< kind 21
+< kindly 5
+< kiss 3
+< kissed 1
+< kisses 4
+< kneeling 2
+< knees 1
+< knew 7
+< knot 1
+< know 57
+< knowing 3
+< knowledge 2
+< known 5
+< knows 4
+< ladies 1
+< lady 11
+< laid 2
+< land 4
+< language 2
+< large 7
+< largely 1
+< larger 2
+< last 21
+< lasted 1
+< late 3
+< later 2
+< latest 1
+< laugh 2
+< laughing 1
+< lavished 1
+< law 3
+< laws 8
+< lax 1
+< lay 2
+< lays 1
+< lead 3
+< leading 3
+< leads 2
+< learn 1
+< learned 2
+< least 2
+< leather 2
+< leave 6
+< leaves 2
+< leaving 2
+< lecture 1
+< led 2
+< left 9
+< legal 2
+< legally 2
+< legislation 1
+< lengths 1
+< lengthy 1
+< less 1
+< lesson 4
+< lessons 1
+< let 8
+< letters 7
+< liability 2
+< liar 1
+< library 2
+< license 4
+< licensed 1
+< lieu 2
+< life 31
+< lifetime 1
+< lifted 1
+< lights 1
+< like 49
+< liked 3
+< likelihood 1
+< likes 1
+< limitation 3
+< limited 2
+< line 3
+< linen 1
+< lining 1
+< linked 1
+< links 3
+< lip 1
+< lips 1
+< list 2
+< listen 2
+< listening 3
+< literature 1
+< little 34
+< live 9
+< lives 4
+< living 2
+< ll 13
+< load 1
+< loathe 1
+< locality 2
+< located 4
+< locations 2
+< lock 1
+< long 14
+< longer 2
+< look 14
+< looked 2
+< looking 9
+< looks 22
+< loose 1
+< lorgnette 1
+< lorgnettte 1
+< lose 3
+< loss 2
+< lost 6
+< lot 3
+< lots 1
+< loudly 1
+< love 23
+< loved 1
+< lover 1
+< loving 1
+< lower 1
+< luggage 4
+< lumps 2
+< luncheon 1
+< luxuriously 1
+< luxury 1
+< m 14
+< machinations 1
+< machine 1
+< madam 1
+< made 8
+< magazines 1
+< maid 2
+< mail 1
+< main 1
+< maintaining 1
+< majestic 1
+< make 20
+< makes 11
+< making 3
+< male 1
+< mamma 9
+< man 29
+< manage 1
+< manager 1
+< manages 1
+< mania 1
+< manna 1
+< manner 10
+< manners 1
+< manuscript 4
+< many 12
+< marked 2
+< market 1
+< marriage 7
+< marriages 1
+< married 28
+< marries 1
+< marry 10
+< marrying 1
+< marvellous 1
+< mask 1
+< matrimony 1
+< matter 16
+< matters 3
+< maximum 1
+< may 50
+< me 147
+< meals 2
+< mean 23
+< meaning 2
+< means 8
+< meant 1
+< measles 1
+< medical 1
+< meditative 1
+< medium 5
+< meet 4
+< meeting 2
+< melancholy 1
+< melodramatic 1
+< member 1
+< memories 1
+< memory 1
+< men 10
+< mental 3
+< mention 6
+< mentioned 8
+< mentioning 1
+< mercenary 1
+< merely 7
+< merriment 1
+< met 11
+< metallic 1
+< metaphor 2
+< metaphorically 1
+< metaphysical 2
+< method 1
+< methods 1
+< middle 1
+< midnight 1
+< might 16
+< military 1
+< mind 10
+< mine 4
+< minor 1
+< minutes 5
+< misanthrope 1
+< misconception 1
+< misfortune 1
+< mislaid 1
+< miss 3
+< missed 1
+< mission 4
+< mistake 2
+< misunderstanding 2
+< modern 6
+< modification 1
+< modified 1
+< moment 22
+< momentary 1
+< moments 2
+< money 7
+< monster 1
+< monthly 1
+< months 6
+< mood 2
+< moral 6
+< morbid 1
+< morbidity 1
+< more 30
+< morning 7
+< morrow 2
+< most 24
+< mother 6
+< mothers 1
+< motives 2
+< mourning 4
+< move 1
+< movement 1
+< much 35
+< muffin 4
+< muffins 14
+< music 9
+< must 46
+< mustn 1
+< my 143
+< myself 18
+< myth 1
+< name 56
+< named 1
+< names 5
+< natural 2
+< naturally 6
+< nature 8
+< natured 1
+< nd 1
+< nearer 1
+< nearly 7
+< necessarily 1
+< necessary 3
+< neckties 2
+< need 7
+< neglect 1
+< neighbourhood 1
+< neighbours 3
+< neither 1
+< neologistic 1
+< nephew 7
+< nervous 1
+< nervously 1
+< network 1
+< never 50
+< new 4
+< news 2
+< newsletter 1
+< newspaper 1
+< newspapers 1
+< next 12
+< nice 7
+< nicer 1
+< nigh 1
+< night 9
+< nine 1
+< no 71
+< noble 1
+< noblest 1
+< nobody 1
+< noise 3
+< non 1
+< none 2
+< nonproprietary 1
+< nonsense 10
+< nor 2
+< not 162
+< note 3
+< nothing 16
+< notice 6
+< noticing 1
+< notifies 1
+< notorious 1
+< novel 3
+< novels 2
+< now 32
+< nowadays 5
+< nuisance 1
+< number 6
+< numerous 1
+< o 1
+< object 2
+< objection 2
+< obliged 3
+< observation 1
+< observed 1
+< obsolete 1
+< obtain 3
+< obtained 1
+< obtaining 2
+< obvious 2
+< obviously 2
+< occasion 2
+< occasionally 2
+< occasions 1
+< occupation 2
+< occur 2
+< occurred 2
+< of 485
+< off 18
+< offend 1
+< offer 4
+< offering 2
+< offers 1
+< office 2
+< official 3
+< often 15
+< oftener 1
+< old 19
+< older 1
+< omit 1
+< omnibus 1
+< on 103
+< once 18
+< one 119
+< oneself 1
+< online 4
+< only 27
+< open 2
+< opener 1
+< openly 1
+< opens 1
+< opinion 2
+< opportunities 1
+< opportunity 7
+< or 101
+< ordeal 1
+< order 9
+< ordered 2
+< orders 1
+< ordinary 4
+< org 13
+< organized 1
+< origin 2
+< original 1
+< originally 1
+< originator 1
+< ostentatiously 1
+< other 35
+< others 5
+< our 14
+< ours 1
+< out 47
+< outdated 1
+< outfit 2
+< outlying 1
+< outrage 2
+< outside 3
+< over 22
+< overhead 1
+< overlook 1
+< owed 1
+< own 35
+< owner 4
+< owns 2
+< pack 1
+< page 3
+< pages 1
+< paid 6
+< pain 1
+< painful 6
+< painfully 1
+< pains 1
+< pale 1
+< papa 2
+< paper 1
+< papers 2
+< paperwork 1
+< paragraph 10
+< paragraphs 3
+< parasol 1
+< parcel 1
+< pardon 6
+< parent 2
+< parents 6
+< parish 1
+< part 11
+< particular 9
+< particularly 5
+< parties 4
+< parting 1
+< party 1
+< pass 1
+< passionate 1
+< passionately 2
+< past 2
+< pathetic 1
+< patronising 1
+< pause 7
+< pay 2
+< paying 2
+< payments 3
+< pays 1
+< peace 1
+< peculiarly 6
+< pencil 1
+< people 31
+< perambulator 3
+< perfect 7
+< perfection 2
+< perfectly 29
+< perform 2
+< performances 1
+< performed 2
+< performing 3
+< perhaps 1
+< period 3
+< periodic 1
+< permanent 4
+< permission 7
+< permit 1
+< permitted 3
+< persistently 1
+< person 9
+< personification 1
+< persons 1
+< pessimist 1
+< pew 1
+< pglaf 4
+< philanthropic 2
+< phrase 5
+< phrased 1
+< physical 6
+< physicians 1
+< piano 2
+< picks 2
+< picture 1
+< pink 2
+< pint 2
+< pity 2
+< place 19
+< placed 4
+< plain 5
+< plate 3
+< platform 1
+< play 4
+< playing 1
+< plays 2
+< pleasant 8
+< pleasanter 1
+< please 4
+< pleased 4
+< pleasure 14
+< pleasures 3
+< poachers 1
+< pocket 3
+< point 5
+< pointing 1
+< points 3
+< police 1
+< polite 1
+< politely 2
+< politeness 1
+< politics 1
+< poor 15
+< poorer 1
+< popular 1
+< portmanteaus 1
+< position 8
+< positively 1
+< possessed 1
+< possession 2
+< possibilities 3
+< possible 7
+< possibly 7
+< postal 1
+< posted 4
+< posture 1
+< pounds 2
+< practical 1
+< practically 2
+< practice 5
+< practised 2
+< pray 3
+< preached 1
+< precept 1
+< prefer 1
+< preliminary 1
+< premature 3
+< prepare 2
+< prepared 2
+< presence 2
+< present 16
+< presents 2
+< preserve 2
+< preserved 1
+< presses 1
+< presume 2
+< presumptuous 1
+< pretence 1
+< pretend 2
+< pretended 1
+< pretending 2
+< prettiest 2
+< pretty 6
+< prevent 2
+< prevents 1
+< previous 1
+< primary 1
+< principal 1
+< principle 1
+< principles 1
+< print 1
+< printed 2
+< prior 1
+< private 2
+< privately 1
+< probable 1
+< probably 7
+< problem 1
+< problematic 1
+< problems 1
+< processing 1
+< produce 7
+< produced 1
+< produces 6
+< production 1
+< profession 1
+< profile 4
+< profit 3
+< profitless 1
+< profits 1
+< profligate 1
+< programme 2
+< prohibition 1
+< prominently 2
+< promise 2
+< promised 2
+< promoting 2
+< promotion 1
+< proof 2
+< proofread 1
+< proper 3
+< property 3
+< proposal 2
+< propose 8
+< proposed 3
+< proposing 2
+< propounding 1
+< proprietary 1
+< protect 2
+< protection 1
+< proud 1
+< proudly 1
+< prove 2
+< proved 1
+< provide 7
+< provided 3
+< providing 4
+< provincial 1
+< provision 1
+< provisions 1
+< public 13
+< publication 2
+< published 1
+< pulpits 1
+< punctual 1
+< punctuality 1
+< punished 1
+< pupil 2
+< purchased 1
+< pure 2
+< purple 1
+< purpose 2
+< put 11
+< puts 5
+< puzzled 1
+< quails 1
+< qualities 2
+< quality 1
+< quarter 1
+< quarters 1
+< question 12
+< questions 2
+< quietly 1
+< quite 62
+< radically 1
+< railway 4
+< ranks 1
+< rapidly 1
+< rarely 4
+< rate 7
+< rather 15
+< re 6
+< reached 2
+< reaches 1
+< reaching 1
+< read 10
+< readable 2
+< reading 1
+< reads 2
+< ready 6
+< real 3
+< realise 2
+< realised 1
+< really 29
+< reap 2
+< reason 5
+< reasonable 1
+< recall 1
+< receipt 2
+< receive 3
+< received 7
+< receiving 2
+< recently 1
+< reception 1
+< reckless 2
+< reclaim 1
+< recognised 1
+< recollect 1
+< recommending 1
+< reconciliation 2
+< reconsider 1
+< record 1
+< records 1
+< recumbent 1
+< redistribute 1
+< redistributing 1
+< redistribution 1
+< redoubled 1
+< reduced 1
+< refer 1
+< reference 1
+< references 2
+< refined 1
+< reform 1
+< reforming 1
+< refreshment 1
+< refund 8
+< refuse 2
+< refused 1
+< refusing 1
+< refuted 1
+< regard 1
+< regarded 2
+< regards 1
+< registered 2
+< registration 1
+< regret 2
+< regular 1
+< regulating 1
+< relapse 1
+< related 1
+< relations 4
+< relative 1
+< relatives 1
+< rely 1
+< remain 2
+< remained 1
+< remaining 2
+< remains 1
+< remark 1
+< remarkably 1
+< remarks 1
+< remember 5
+< remembered 1
+< remind 1
+< reminds 2
+< remote 1
+< remotely 1
+< remotest 2
+< remove 1
+< removed 2
+< renamed 1
+< repeat 1
+< repellent 1
+< repentance 2
+< replace 1
+< replacement 3
+< reply 1
+< reported 1
+< reports 1
+< representations 1
+< reproach 1
+< request 1
+< require 4
+< required 1
+< requirements 4
+< requires 2
+< rescue 1
+< research 2
+< reserving 1
+< reside 1
+< resides 2
+< resigned 1
+< resort 2
+< respect 4
+< respectability 2
+< respectable 1
+< responsibility 2
+< responsible 1
+< restored 2
+< restraining 1
+< restrains 2
+< restraints 1
+< restrictions 2
+< result 3
+< retain 1
+< retire 3
+< retires 2
+< retort 1
+< return 6
+< returned 3
+< returns 1
+< reveal 1
+< revolting 1
+< revolutionary 1
+< reward 2
+< ribbon 1
+< rid 4
+< ridiculous 2
+< right 18
+< ring 3
+< rise 3
+< rises 2
+< rising 2
+< rites 1
+< romance 2
+< romantic 6
+< room 24
+< rose 3
+< roses 2
+< round 14
+< royalties 2
+< royalty 1
+< rule 1
+< rules 3
+< run 2
+< runs 1
+< rushes 1
+< s 96
+< sacrifice 1
+< sad 3
+< sadly 2
+< safe 1
+< said 14
+< sake 5
+< salver 5
+< same 10
+< sandwich 2
+< sandwiches 5
+< satisfaction 2
+< satisfactory 3
+< satisfied 1
+< satisfy 1
+< save 1
+< savour 1
+< saw 6
+< say 41
+< saying 2
+< says 2
+< scandal 1
+< scandalous 1
+< scattered 1
+< scepticism 1
+< scholar 1
+< schools 2
+< science 2
+< scissors 1
+< scornful 1
+< scoundrel 2
+< scrape 1
+< scrapes 2
+< search 1
+< seaside 2
+< season 2
+< seat 1
+< seated 1
+< second 4
+< secret 2
+< secretive 1
+< secrets 1
+< secular 1
+< secure 1
+< see 29
+< seeing 1
+< seem 18
+< seemed 1
+< seems 28
+< seen 5
+< sees 1
+< seizes 1
+< self 1
+< semi 1
+< send 2
+< sending 3
+< sends 1
+< sensational 2
+< sense 7
+< sensible 3
+< sent 3
+< sentence 2
+< sentiment 1
+< sentimentality 1
+< sentiments 1
+< separate 2
+< separation 1
+< serious 16
+< seriously 3
+< sermon 2
+< sermons 1
+< servants 2
+< serve 1
+< served 1
+< service 1
+< set 11
+< settled 3
+< seven 3
+< several 3
+< severe 7
+< sex 2
+< sexes 1
+< shake 2
+< shaking 1
+< shall 13
+< shallow 2
+< shallying 1
+< shame 3
+< shameful 1
+< shan 1
+< share 1
+< shared 1
+< sharing 1
+< she 35
+< sherry 2
+< shield 1
+< shilly 1
+< shirt 2
+< shiver 1
+< shocked 1
+< shoot 1
+< short 5
+< should 47
+< shouldn 4
+< show 2
+< shudder 1
+< shy 1
+< sick 1
+< side 5
+< sigh 1
+< sight 2
+< sighted 2
+< sign 2
+< signs 1
+< silence 2
+< silly 3
+< similar 2
+< simple 5
+< simplicity 1
+< simply 5
+< since 10
+< sincere 1
+< sincerity 1
+< single 4
+< sinks 1
+< sir 30
+< sister 3
+< sit 6
+< site 4
+< sits 1
+< sitting 1
+< situation 1
+< six 4
+< size 1
+< slice 1
+< slight 6
+< slightingly 1
+< slowly 3
+< small 8
+< smallest 4
+< smart 2
+< smile 1
+< smiles 2
+< smoke 2
+< smoking 2
+< snare 2
+< so 68
+< social 6
+< society 3
+< sofa 6
+< sole 1
+< solicit 2
+< solicitation 1
+< solicitors 1
+< solid 1
+< solitude 1
+< some 43
+< something 13
+< sometimes 2
+< somewhat 8
+< somewhere 1
+< son 2
+< songs 1
+< soon 6
+< sooner 4
+< sorrow 1
+< sorry 5
+< sort 4
+< soul 1
+< sound 2
+< sounds 3
+< sows 2
+< space 2
+< spade 3
+< spare 1
+< speak 19
+< speaking 3
+< speaks 2
+< specially 4
+< specific 1
+< specified 2
+< speculating 1
+< speculation 1
+< speculations 2
+< spell 1
+< spelled 1
+< spend 1
+< sphere 1
+< spheres 1
+< spite 1
+< spoke 2
+< spoken 1
+< spread 1
+< sprinkling 1
+< staff 1
+< stain 1
+< stake 1
+< stamp 1
+< stand 3
+< standing 3
+< start 1
+< starts 4
+< state 12
+< statements 1
+< states 6
+< station 3
+< stations 2
+< statistics 1
+< status 4
+< stay 2
+< stayed 1
+< staying 3
+< steps 1
+< still 8
+< stirred 1
+< stock 1
+< stone 2
+< stony 1
+< stop 1
+< stopped 1
+< stops 1
+< stored 1
+< story 1
+< straight 1
+< strange 6
+< strangely 1
+< stress 2
+< strict 1
+< strictly 1
+< strikes 1
+< stroll 2
+< strong 1
+< strongly 2
+< struck 1
+< struggle 1
+< study 1
+< style 1
+< subject 10
+< subjects 1
+< subscribe 1
+< subsequently 1
+< succeeded 1
+< success 2
+< such 22
+< sudden 3
+< suddenly 6
+< suffer 1
+< suffered 1
+< suffering 1
+< sugar 2
+< suggest 1
+< suit 1
+< suits 3
+< superior 1
+< supplies 1
+< support 4
+< suppose 20
+< supposed 1
+< supposing 1
+< sure 16
+< surely 4
+< surfaces 1
+< surmised 1
+< surprise 3
+< surprised 1
+< surrender 1
+< survive 1
+< susceptible 2
+< suspect 2
+< suspected 2
+< suspense 1
+< swamp 1
+< sweeps 1
+< sweet 8
+< sweetest 1
+< sweetly 1
+< sweetness 1
+< sympathies 1
+< sympathy 1
+< synonymous 1
+< system 1
+< t 168
+< table 14
+< take 16
+< taken 2
+< takes 5
+< taking 2
+< talk 18
+< talked 1
+< talking 3
+< tall 3
+< tampers 1
+< task 3
+< taste 2
+< tax 6
+< taxes 1
+< tea 18
+< tears 2
+< tedious 3
+< telegram 2
+< tell 17
+< telling 2
+< tells 2
+< temperance 1
+< temporary 2
+< temptation 1
+< ten 3
+< terms 22
+< terrible 8
+< th 3
+< than 25
+< thank 3
+< that 293
+< the 694
+< theatre 1
+< their 10
+< them 33
+< then 7
+< theory 2
+< there 42
+< these 11
+< they 20
+< thing 25
+< things 17
+< think 62
+< thinking 1
+< third 1
+< thirty 8
+< this 91
+< thoroughly 4
+< those 2
+< though 4
+< thought 6
+< thoughtful 1
+< thoughtless 1
+< thoughts 1
+< thousand 3
+< three 14
+< thrift 1
+< thrill 1
+< through 9
+< throughout 1
+< throwing 1
+< throws 1
+< ticket 2
+< tidings 1
+< tied 1
+< till 10
+< time 35
+< times 2
+< tm 57
+< to 641
+< together 9
+< told 13
+< tone 2
+< tongs 1
+< too 16
+< toothache 1
+< top 1
+< topic 1
+< touch 2
+< touched 1
+< towards 4
+< town 22
+< trademark 10
+< tradesmen 1
+< tragedy 1
+< tragic 2
+< train 4
+< trains 1
+< transcribe 1
+< transcription 1
+< travel 1
+< tray 1
+< treat 2
+< treated 1
+< treatment 1
+< tree 2
+< trespassing 1
+< trials 1
+< tries 1
+< trivet 1
+< trivial 1
+< triviality 2
+< trot 2
+< trouble 4
+< troubles 1
+< true 2
+< trunks 1
+< trust 3
+< trusted 1
+< trusting 1
+< trusty 1
+< truth 10
+< try 5
+< tune 1
+< turn 3
+< turned 2
+< turning 1
+< turns 2
+< tutelage 1
+< twenty 4
+< twice 1
+< twins 1
+< two 12
+< twopence 1
+< txt 1
+< types 1
+< unalterable 1
+< unbearable 2
+< uncertainty 1
+< uncle 6
+< undeceive 1
+< undeceived 1
+< under 16
+< understand 9
+< undivided 1
+< undoubtedly 1
+< unenforceability 1
+< unexpectedly 1
+< unfair 2
+< unfashionable 1
+< unfortunate 8
+< unfortunately 1
+< unfriendly 1
+< ungentlemanly 1
+< unhappily 1
+< unhappy 2
+< uniform 1
+< united 1
+< unkind 1
+< unknown 1
+< unless 4
+< unlink 1
+< unmarried 2
+< unmixed 1
+< unnecessary 1
+< unoccupied 1
+< unpacked 1
+< unpleasant 4
+< unpleasing 1
+< unpublished 1
+< unreadable 1
+< unromantic 1
+< unsatisfactory 1
+< unsolicited 1
+< unsound 1
+< unspoiled 1
+< until 1
+< untruthful 1
+< unwell 1
+< up 49
+< uplifted 1
+< upon 9
+< upper 1
+< upright 1
+< upsetting 1
+< upstairs 1
+< us 28
+< use 13
+< used 5
+< useful 1
+< usen 1
+< user 3
+< using 4
+< usual 4
+< usually 10
+< utilitarian 1
+< utmost 1
+< utterly 2
+< vaccination 1
+< vacillating 1
+< vaguely 1
+< valuable 1
+< value 1
+< valued 1
+< vanity 1
+< variety 2
+< various 1
+< ve 11
+< vegetarians 1
+< venture 1
+< venturing 1
+< verify 1
+< version 1
+< very 89
+< vessels 1
+< vestry 2
+< vibrations 2
+< vicinity 1
+< victim 1
+< view 1
+< viewed 1
+< viewing 1
+< views 4
+< violates 1
+< violence 1
+< virus 1
+< visible 1
+< visit 4
+< vital 3
+< voice 5
+< void 1
+< volume 4
+< volunteer 1
+< volunteers 5
+< vulgar 4
+< waist 1
+< waists 1
+< wait 8
+< waiting 5
+< walk 2
+< walks 3
+< want 13
+< wanted 2
+< wants 4
+< ward 8
+< warn 1
+< warranties 1
+< was 88
+< washing 1
+< wasn 2
+< wasted 1
+< watch 4
+< water 2
+< watering 2
+< way 26
+< ways 1
+< we 42
+< weak 2
+< weaker 1
+< weakness 1
+< wealth 1
+< wear 1
+< wearing 1
+< weather 5
+< web 3
+< week 12
+< weeks 1
+< welcome 1
+< well 20
+< went 2
+< were 24
+< weren 1
+< what 55
+< whatever 1
+< whatsoever 5
+< when 21
+< whenever 5
+< where 9
+< whether 4
+< which 23
+< whistle 1
+< who 50
+< whole 9
+< wholesome 1
+< whom 6
+< whooping 1
+< whose 9
+< why 16
+< wicked 7
+< wide 1
+< widely 1
+< widest 2
+< wife 4
+< wilderness 1
+< wildly 2
+< will 75
+< window 1
+< wine 2
+< wipe 1
+< wish 17
+< with 147
+< within 4
+< without 19
+< woe 1
+< woman 9
+< womanthrope 1
+< women 8
+< won 11
+< wonderful 7
+< wonderfully 3
+< word 4
+< work 51
+< working 1
+< works 32
+< world 8
+< worn 2
+< worse 2
+< worst 2
+< would 65
+< wouldn 5
+< wounded 1
+< wretched 1
+< write 3
+< writes 1
+< writing 5
+< written 7
+< wrong 3
+< wronged 1
+< wrote 3
+< www 10
+< year 4
+< years 15
+< yes 5
+< yesterday 5
+< yet 5
+< yew 1
+< you 510
+< young 24
+< younger 5
+< your 128
+< yours 4
+< yourself 3
+< zip 1
+< A 32
+3424d3
+< ACT 8
+3426d4
+< ACTUAL 1
+3433,3434d10
+< AGREE 2
+< AGREEMENT 1
+3436d11
+< AK 1
+3440d14
+< AND 1
+3443,3444d16
+< ANY 3
+< ANYTHING 1
+3448d19
+< AS 1
+3451d21
+< ASCII 3
+3462d31
+< About 3
+3483d51
+< Additional 1
+3487d54
+< Admirably 2
+3498d64
+< Advancing 2
+3511d76
+< After 5
+3521d85
+< Ah 9
+3524d87
+< Ahem 7
+3529d91
+< Airily 2
+3535d96
+< Alas 1
+3537d97
+< Albany 4
+3543d102
+< Alexander 2
+3549d107
+< Algernon 271
+3552d109
+< Algy 22
+3556d112
+< All 3
+3559d114
+< Allen 1
+3574d128
+< Am 2
+3578d131
+< Amazed 1
+3595d147
+< An 3
+3598d149
+< Anabaptists 1
+3602d152
+< Ancient 1
+3605d154
+< And 39
+3625d173
+< Any 1
+3640d187
+< Apprised 1
+3657d203
+< Archive 13
+3660d205
+< Are 3
+3673d217
+< Army 2
+3686d229
+< As 7
+3694,3695d236
+< Aside 1
+< Ask 1
+3709d249
+< Astounded 1
+3713d252
+< At 7
+3728d266
+< August 1
+3731d268
+< Augusta 23
+3734d270
+< Aunt 24
+3740d275
+< Australia 4
+3745d279
+< Author 1
+3759d292
+< Aynesworth 1
+3763d295
+< B 5
+3768d299
+< BE 1
+3776d306
+< BEFORE 1
+3779d308
+< BEING 2
+3789d317
+< BREACH 2
+3795d322
+< BUT 1
+3821d347
+< Bankruptcy 1
+3835d360
+< Basket 1
+3841d365
+< Bayswater 1
+3848d371
+< Because 1
+3864d386
+< Begins 1
+3871d392
+< Being 5
+3875,3876d395
+< Belgrave 3
+< Believe 1
+3899d417
+< Besides 9
+3906d423
+< Between 1
+3926d442
+< Bishop 1
+3930d445
+< Bitterly 1
+3946d460
+< Bloxham 2
+3959d472
+< Bolton 1
+3980d492
+< Both 2
+3989d500
+< Bowing 1
+3996d506
+< Bracknell 128
+4006d515
+< Bread 1
+4009d517
+< Breaking 1
+4021,4022d528
+< Brighton 2
+< Bring 1
+4030d535
+< British 1
+4036d540
+< Brother 2
+4043d546
+< Brut 1
+4054,4055d556
+< Bunbury 39
+< Bunburyed 1
+4058,4059d558
+< Bunburying 6
+< Bunburyist 9
+4062d560
+< Bunburyists 1
+4075,4076d572
+< But 63
+< Butler 1
+4080,4081d575
+< By 3
+< C 2
+4098d591
+< CONSEQUENTIAL 1
+4101d593
+< CONTRACT 1
+4114d605
+< Cake 2
+4125d615
+< Calling 1
+4128d617
+< Calmly 1
+4138d626
+< Can 3
+4141d628
+< Canninge 1
+4143d629
+< Cannot 1
+4146d631
+< Canon 5
+4151d635
+< Captain 1
+4157d640
+< Cardew 30
+4175d657
+< Catches 1
+4177,4178d658
+< Catching 1
+< Cathedral 1
+4188d667
+< Cecily 256
+4196d674
+< Certainly 7
+4205d682
+< Character 1
+4208d684
+< Charity 1
+4215d690
+< Charming 2
+4219d693
+< Chasuble 63
+4223d696
+< Cheerily 1
+4232d704
+< Chief 1
+4234d705
+< Child 1
+4250d720
+< Christian 8
+4258d727
+< Church 3
+4266d734
+< City 1
+4276d743
+< Clasps 1
+4296d762
+< Club 1
+4299d764
+< Co 1
+4315d779
+< Colonel 2
+4321d784
+< Come 6
+4324d786
+< Comedy 2
+4328d789
+< Coming 1
+4340d800
+< Compliance 1
+4360d819
+< Considering 1
+4365d823
+< Contact 1
+4373d830
+< Continuing 1
+4377d833
+< Contributions 1
+4386d841
+< Copyright 1
+4397d851
+< Could 1
+4399d852
+< Couldn 3
+4414d866
+< Court 3
+4417d868
+< Cousin 1
+4428d878
+< Creating 1
+4438d887
+< Crossing 1
+4465d913
+< Cuts 2
+4470,4471d917
+< D 5
+< DAMAGE 1
+4474d919
+< DAMAGES 2
+4480d924
+< DIRECT 1
+4482d925
+< DISCLAIMER 1
+4485d927
+< DISTRIBUTE 1
+4487d928
+< DISTRIBUTOR 1
+4491d931
+< DONATIONS 1
+4497d936
+< DROP 2
+4518d956
+< Darling 5
+4524d961
+< Date 1
+4527d963
+< David 1
+4536d971
+< Dead 2
+4538,4539d972
+< Dear 5
+< Dearest 1
+4556d988
+< Defect 1
+4558d989
+< Defects 1
+4581d1011
+< Despite 1
+4590d1019
+< Detestable 1
+4600d1028
+< Did 5
+4602d1029
+< Didn 1
+4613d1039
+< Director 1
+4619d1044
+< Discontent 1
+4628d1052
+< Disloyalty 1
+4637,4638d1060
+< Divorce 1
+< Divorces 1
+4640d1061
+< Do 15
+4648d1068
+< Doctor 4
+4656d1075
+< Domain 1
+4660d1078
+< Don 1
+4663d1080
+< Donations 2
+4672d1088
+< Dorking 1
+4682d1097
+< Dr 20
+4685d1099
+< Drama 1
+4688d1101
+< Drawing 3
+4692d1104
+< Draws 1
+4708d1119
+< Duchess 1
+4717d1127
+< Dumbleton 1
+4730d1139
+< Dyall 1
+4733,4734d1141
+< E 22
+< EARNEST 2
+4738d1144
+< EBOOK 2
+4740d1145
+< EIN 1
+4744d1148
+< END 1
+4747d1150
+< EVEN 1
+4749d1151
+< EXCEPT 1
+4752d1153
+< EXPRESS 1
+4756d1156
+< Earnest 4
+4762d1161
+< Eating 1
+4766d1164
+< Economy 2
+4781d1178
+< Egeria 2
+4788d1184
+< Eh 1
+4791d1186
+< Eighteen 1
+4807d1201
+< Email 1
+4815,4816d1208
+< Embraces 3
+< Embracing 1
+4822d1213
+< Empire 1
+4830d1220
+< England 1
+4832d1221
+< English 3
+4838d1226
+< Enter 32
+4842d1229
+< Enthusiastically 1
+4848d1234
+< Ernest 82
+4854d1239
+< Especially 1
+4867,4868d1251
+< Evelyn 1
+< Even 2
+4872d1254
+< Evensong 1
+4875d1256
+< Every 4
+4877d1257
+< Everybody 1
+4880d1259
+< Everything 1
+4891,4892d1269
+< Examine 1
+< Examines 1
+4895d1271
+< Except 2
+4899d1274
+< Exchanges 1
+4901d1275
+< Executive 1
+4907d1280
+< Exit 4
+4915d1287
+< Exploded 1
+4918d1289
+< Extension 1
+4923d1293
+< F 12
+4929d1298
+< FIRST 1
+4932d1300
+< FITNESS 1
+4936d1303
+< FOR 3
+4938d1304
+< FOUNDATION 1
+4947d1312
+< FULL 2
+4956d1320
+< Fairbanks 1
+4959d1322
+< Fairfax 23
+4965d1327
+< Fall 1
+4979d1340
+< Farquhar 2
+4990d1350
+< February 3
+5005d1364
+< Few 2
+5008d1366
+< Fiction 1
+5012d1369
+< Fifeshire 1
+5022d1378
+< Finally 1
+5030d1385
+< Finished 1
+5039d1393
+< Five 1
+5043d1396
+< Flat 1
+5061d1413
+< Follows 1
+5068d1419
+< For 9
+5080d1430
+< Fortunately 2
+5085d1434
+< Found 1
+5088d1436
+< Foundation 24
+5100d1447
+< Frank 1
+5109d1455
+< Frederick 1
+5115d1460
+< French 4
+5130d1474
+< From 6
+5133,5134d1476
+< Frowning 1
+< Full 1
+5138d1479
+< Funds 2
+5144d1484
+< GIVE 1
+5157d1496
+< GUTENBERG 4
+5162d1500
+< Garden 2
+5174,5175d1511
+< General 8
+< Generals 1
+5186,5187d1521
+< Geography 1
+< George 3
+5193,5194d1526
+< Gerald 1
+< German 11
+5199d1530
+< Gervase 1
+5214d1544
+< Girls 1
+5222,5223d1551
+< Glares 1
+< Glibly 1
+5229d1556
+< Go 1
+5235d1561
+< Goes 11
+5243d1568
+< Good 12
+5246d1570
+< Goodbye 1
+5256d1579
+< Gorgon 2
+5259d1581
+< Got 1
+5265d1586
+< Governess 1
+5268d1588
+< Gower 1
+5273d1592
+< Grand 1
+5282d1600
+< Gravely 2
+5297d1614
+< Gregory 1
+5307d1623
+< Grimly 1
+5314d1629
+< Grosvenor 2
+5321d1635
+< Guide 1
+5324d1637
+< Guides 1
+5330d1642
+< Gutenberg 82
+5332d1643
+< Gwendolen 178
+5336d1646
+< H 2
+5341d1650
+< HAVE 1
+5359d1667
+< Had 1
+5369d1676
+< Half 3
+5373d1679
+< Hallo 1
+5381d1686
+< Hand 1
+5386,5387d1690
+< Handing 1
+< Hands 2
+5405d1707
+< Harbury 2
+5425d1726
+< Hart 2
+5436d1736
+< Have 2
+5445d1744
+< He 30
+5448d1746
+< Health 1
+5456d1753
+< Heaven 2
+5478d1774
+< Her 2
+5483d1778
+< Here 4
+5494,5495d1788
+< Hertfordshire 2
+< Hesitation 1
+5519d1811
+< His 4
+5521d1812
+< History 2
+5545d1835
+< Hon 2
+5558d1847
+< Hopelessly 1
+5567d1855
+< Horrid 3
+5579d1866
+< Hotel 1
+5584d1870
+< House 5
+5587d1872
+< How 18
+5590d1874
+< However 9
+5625d1908
+< I 831
+5628d1910
+< IF 1
+5630d1911
+< II 1
+5632d1912
+< III 1
+5635d1914
+< IMPLIED 1
+5638d1916
+< IMPORTANCE 2
+5640,5641d1917
+< IN 2
+< INCIDENTAL 1
+5643d1918
+< INCLUDING 1
+5645d1919
+< INDEMNITY 1
+5647d1920
+< INDIRECT 1
+5652d1924
+< IRS 1
+5654d1925
+< IS 1
+5657d1927
+< ISO 1
+5664d1933
+< Idle 1
+5666d1934
+< If 33
+5669d1936
+< Ignorance 1
+5673d1939
+< Illness 1
+5682d1947
+< Immersion 1
+5687,5688d1951
+< Importance 4
+< Impossible 1
+5690d1952
+< In 34
+5695d1956
+< Indeed 10
+5698d1958
+< Indian 1
+5708d1967
+< Influence 1
+5711d1969
+< Information 5
+5720d1977
+< Inquiringly 1
+5725d1981
+< Inspects 1
+5732d1987
+< Internal 1
+5734d1988
+< International 1
+5738d1991
+< Interposing 1
+5747d1999
+< Irene 1
+5754,5755d2005
+< Irritably 2
+< Is 8
+5765d2014
+< Isn 1
+5768d2016
+< It 101
+5773d2020
+< Its 1
+5776d2022
+< J 2
+5780d2025
+< JAMES 1
+5789d2033
+< Jack 289
+5792d2035
+< Jacks 1
+5799d2041
+< James 1
+5814d2055
+< Jenkins 1
+5837d2077
+< John 11
+5847d2086
+< Jouet 1
+5858d2096
+< July 1
+5865d2102
+< Just 1
+5871d2107
+< KIND 1
+5890d2125
+< Kindly 1
+5896d2130
+< Kinsey 1
+5900d2133
+< Kisses 2
+5904d2136
+< Kneels 1
+5925d2156
+< LIABILITY 1
+5927d2157
+< LIABLE 1
+5930d2159
+< LICENSE 2
+5935d2163
+< LIMITED 3
+5940d2167
+< LONDON 1
+5946d2172
+< Lady 128
+5949d2174
+< Laetitia 2
+5953d2177
+< Lake 1
+5959d2182
+< Lancing 1
+5962d2184
+< Lane 48
+5967d2188
+< Language 1
+5971d2191
+< Languidly 1
+5979d2198
+< Laughing 2
+6000d2218
+< Leamington 1
+6012d2229
+< Leclercq 1
+6026d2242
+< Lessee 1
+6031d2246
+< Let 4
+6040d2254
+< Liberal 1
+6044d2257
+< License 10
+6050,6051d2262
+< Lieutenant 2
+< Life 2
+6072d2282
+< Lists 2
+6075d2284
+< Literary 14
+6080d2288
+< Lives 1
+6095d2302
+< London 13
+6102d2308
+< Looking 5
+6105d2310
+< Looks 3
+6110d2314
+< Lord 7
+6119d2322
+< Lots 1
+6128d2330
+< Ltd 1
+6141d2342
+< M 1
+6148d2348
+< MERCHANTIBILITY 1
+6173d2372
+< Magley 1
+6182d2380
+< Makes 1
+6192d2389
+< Mallam 1
+6195d2391
+< Mamma 3
+6198d2393
+< Manager 1
+6202d2396
+< Manor 5
+6205d2398
+< Manservant 1
+6208d2400
+< Many 1
+6214d2405
+< March 2
+6217d2407
+< Marechal 1
+6226d2415
+< Markby 8
+6233d2421
+< Married 1
+6241d2428
+< Mary 2
+6249d2435
+< Maturity 1
+6253d2438
+< Maxbohm 1
+6255d2439
+< May 8
+6266d2449
+< Me 1
+6277d2459
+< Meditatively 2
+6279d2460
+< Melan 1
+6288d2468
+< Memory 2
+6291d2470
+< Men 1
+6303d2481
+< Merely 1
+6306d2483
+< Merriman 36
+6311d2487
+< Messrs 1
+6314d2489
+< Methuen 1
+6316d2490
+< Metropolitan 1
+6323d2496
+< Michael 2
+6328d2500
+< Might 1
+6332d2503
+< Migsby 1
+6341d2511
+< Millard 1
+6355d2524
+< Miss 132
+6358d2526
+< Mission 1
+6360d2527
+< Mississippi 1
+6371d2537
+< Mobbs 1
+6375d2540
+< Modern 2
+6381d2545
+< Moncrieff 11
+6383d2546
+< Monday 7
+6398d2560
+< Moon 2
+6408d2569
+< More 2
+6412d2572
+< Morning 3
+6423d2582
+< Most 1
+6425d2583
+< Mother 1
+6429,6430d2586
+< Motions 1
+< Moulton 1
+6440d2595
+< Moving 5
+6443d2597
+< Mr 88
+6445,6446d2598
+< Mrs 2
+< Much 1
+6450d2601
+< Mudie 1
+6466d2616
+< My 44
+6472,6473d2621
+< N 1
+< NEGLIGENCE 1
+6479d2626
+< NO 2
+6483d2629
+< NOT 2
+6485d2630
+< NOTICE 1
+6502d2646
+< Nature 1
+6508d2651
+< Nearly 1
+6522d2664
+< Nervously 2
+6524d2665
+< Never 6
+6528d2668
+< Newby 1
+6539d2678
+< Niel 1
+6546d2684
+< No 19
+6550d2687
+< Nobody 1
+6554d2690
+< Noises 1
+6557d2692
+< None 2
+6561d2695
+< Nor 1
+6563d2696
+< North 1
+6568d2700
+< Not 3
+6572d2703
+< Nothing 5
+6583d2713
+< Now 7
+6590d2719
+< Number 1
+6596d2724
+< OF 13
+6601d2728
+< OR 6
+6604d2730
+< OTHER 1
+6606d2731
+< OWNER 1
+6622d2746
+< Of 15
+6624d2747
+< Offering 1
+6627d2749
+< Offers 3
+6631d2752
+< Oh 59
+6634d2754
+< Old 1
+6643d2762
+< On 7
+6646,6647d2764
+< One 5
+< Only 3
+6653d2769
+< Opens 1
+6655d2770
+< Opera 1
+6662d2776
+< Or 1
+6667d2780
+< Orders 1
+6679d2791
+< Oscar 2
+6687d2798
+< Our 3
+6691d2801
+< Outside 1
+6702,6703d2811
+< Oxonian 1
+< P 2
+6705d2812
+< PARAGRAPH 1
+6712,6713d2818
+< PERSONS 1
+< PG 1
+6715d2819
+< PGLAF 1
+6721,6722d2824
+< PLAY 2
+< PLEASE 1
+6724d2825
+< POSSIBILITY 1
+6732,6733d2832
+< PROJECT 4
+< PROVIDED 1
+6735d2833
+< PUNITIVE 1
+6737d2834
+< PURPOSE 1
+6745d2841
+< Pagan 1
+6763d2858
+< Pardon 1
+6767d2861
+< Paris 6
+6769d2862
+< Park 2
+6778d2870
+< Particularly 1
+6788d2879
+< Passionately 1
+6801d2891
+< Peile 1
+6804d2893
+< Pencil 1
+6811d2899
+< People 4
+6814d2901
+< Perfectly 2
+6816d2902
+< Perhaps 2
+6822d2907
+< Perrier 1
+6826d2910
+< Personally 2
+6856,6857d2939
+< Picking 3
+< Picks 2
+6882d2963
+< Plain 2
+6896,6897d2976
+< Pleasantly 1
+< Please 2
+6910,6911d2988
+< Pointing 1
+< Points 1
+6916d2992
+< Political 2
+6929d3004
+< Poor 2
+6938d3012
+< Post 1
+6951d3024
+< Pray 8
+6962,6963d3034
+< Present 1
+< Presenting 1
+6967d3037
+< Pretty 1
+6971d3040
+< Prevention 1
+6974d3042
+< Price 1
+6979d3046
+< Primitive 2
+6985d3051
+< Prism 86
+6999,7000d3064
+< Produces 1
+< Professor 1
+7005d3068
+< Project 82
+7018d3080
+< Public 1
+7023,7024d3084
+< Pulling 1
+< Pulls 1
+7032d3091
+< Puts 4
+7049d3107
+< Quite 6
+7052d3109
+< Quixotic 1
+7057d3113
+< READ 1
+7060d3115
+< REFUND 1
+7062d3116
+< REMEDIES 1
+7064d3117
+< REPLACEMENT 1
+7067d3119
+< RIGHT 1
+7077d3128
+< Radical 1
+7086,7087d3136
+< Railway 1
+< Raising 2
+7093d3141
+< Rather 2
+7100d3147
+< Reading 1
+7104d3150
+< Really 3
+7107d3152
+< Receding 1
+7112d3156
+< Recoiling 1
+7117,7118d3160
+< Rector 3
+< Rectory 1
+7121d3162
+< Redistributing 1
+7123d3163
+< Redistribution 1
+7128d3167
+< Refund 1
+7135d3173
+< Relations 1
+7137d3174
+< Release 1
+7149d3185
+< Replacement 1
+7152d3187
+< Replaces 1
+7155d3189
+< Reproachfully 1
+7168d3201
+< Retreating 1
+7171d3203
+< Rev 2
+7175d3206
+< Revenue 1
+7180d3210
+< Revolution 1
+7190d3219
+< Right 1
+7195d3223
+< Rings 1
+7198,7199d3225
+< Ripeness 1
+< Rise 1
+7202,7203d3227
+< Rises 2
+< Rising 8
+7231d3254
+< Room 1
+7237d3259
+< Rose 1
+7251d3272
+< Royalty 2
+7268,7269d3288
+< Runs 1
+< Rupee 1
+7273,7274d3291
+< Rushes 1
+< Rushing 1
+7283d3299
+< S 7
+7290d3305
+< SCENE 3
+7292,7293d3306
+< SCENES 1
+< SECOND 1
+7295d3307
+< SEND 1
+7313d3324
+< ST 1
+7316d3326
+< START 2
+7320d3329
+< STRICT 1
+7322d3330
+< SUCH 1
+7340d3347
+< Salt 1
+7355d3361
+< Satirically 1
+7359d3364
+< Saturday 3
+7390d3394
+< Scheme 1
+7395d3398
+< Science 1
+7400d3402
+< Scotland 1
+7418,7419d3419
+< Section 7
+< Sections 1
+7421d3420
+< See 2
+7430d3428
+< Sees 1
+7433d3430
+< Seizes 1
+7442d3438
+< Sententiously 2
+7446d3441
+< Serious 3
+7449d3443
+< Service 1
+7458d3451
+< Severely 4
+7466d3458
+< Shakes 4
+7470d3461
+< Shaking 3
+7472d3462
+< Shall 1
+7476d3465
+< She 13
+7502d3490
+< Shoreman 1
+7508d3495
+< Shows 2
+7512d3498
+< Shropshire 5
+7550d3535
+< Sinks 1
+7554d3538
+< Sit 2
+7557,7558d3540
+< Sits 1
+< Sitting 4
+7574d3555
+< Slowly 2
+7584d3564
+< Smiling 1
+7599d3578
+< So 6
+7601d3579
+< Society 2
+7613d3590
+< Some 2
+7618d3594
+< Something 1
+7621d3596
+< Sometimes 1
+7624d3598
+< Somewhat 2
+7651d3624
+< Speaking 3
+7653d3625
+< Special 1
+7671d3642
+< Sporran 1
+7677d3647
+< Sprinkling 1
+7680d3649
+< Square 4
+7683d3651
+< Stammering 1
+7686d3653
+< Standing 1
+7693d3659
+< Starting 1
+7697d3662
+< States 10
+7699d3663
+< Station 2
+7714d3677
+< Sternly 2
+7718,7719d3680
+< Stiffly 1
+< Still 3
+7739d3699
+< Street 4
+7755d3714
+< Style 1
+7765d3723
+< Sugar 2
+7771d3728
+< Sunday 2
+7775d3731
+< Superciliously 1
+7783d3738
+< Surely 1
+7787,7788d3741
+< Surprised 1
+< Surrey 1
+7792d3744
+< Sussex 1
+7803d3754
+< Sweetly 2
+7815d3765
+< TABLEAU 1
+7819,7820d3768
+< THAT 2
+< THE 12
+7823d3770
+< THEATRE 1
+7827,7828d3773
+< THIRD 1
+< THIS 3
+7830d3774
+< THOSE 1
+7835d3778
+< TIME 1
+7837d3779
+< TO 2
+7841d3782
+< TRADEMARK 1
+7856d3796
+< Takes 6
+7858d3797
+< Taking 1
+7883d3821
+< Tell 2
+7893d3830
+< Terminus 1
+7895d3831
+< Terms 2
+7905d3840
+< Thank 15
+7907d3841
+< Thanks 2
+7910d3843
+< That 46
+7914d3846
+< The 89
+7918d3849
+< Their 1
+7922d3852
+< Then 13
+7928d3857
+< There 22
+7933d3861
+< These 2
+7936d3863
+< They 32
+7946d3872
+< Thirty 1
+7948d3873
+< This 24
+7952d3876
+< Thomas 4
+7961d3884
+< Thought 1
+7964d3886
+< Thoughtfully 1
+7969d3890
+< Three 2
+7979,7980d3899
+< Thursday 3
+< Thus 1
+7986d3904
+< Till 1
+7989d3906
+< Time 1
+8002d3918
+< Title 1
+8005d3920
+< To 32
+8021d3935
+< Tories 1
+8040d3953
+< Transcribed 1
+8056d3968
+< Tries 1
+8063d3974
+< Trivial 2
+8072d3982
+< True 2
+8085d3994
+< Tunbridge 3
+8095d4003
+< Turns 1
+8101d4008
+< Twenty 2
+8111d4017
+< U 3
+8113d4018
+< UNDER 1
+8116,8117d4020
+< US 2
+< USE 1
+8119d4021
+< UT 1
+8130d4031
+< Uncle 20
+8134d4034
+< Under 1
+8147,8148d4046
+< Unionist 1
+< United 10
+8150d4047
+< University 2
+8153d4049
+< Unless 1
+8158d4053
+< Unmarried 1
+8161d4055
+< Until 1
+8164d4057
+< Untruthful 1
+8166d4058
+< Updated 1
+8169,8170d4060
+< Upon 2
+< Upper 2
+8176d4065
+< Use 2
+8201d4089
+< Vanbrugh 1
+8205d4092
+< Vanilla 2
+8222d4108
+< Very 7
+8228d4113
+< Victoria 3
+8235d4119
+< Vincent 1
+8247d4130
+< Volunteers 1
+8250d4132
+< W 3
+8253d4134
+< WARRANTIES 2
+8255d4135
+< WARRANTY 2
+8269d4148
+< WILL 1
+8273d4151
+< WITH 1
+8278d4155
+< WORK 1
+8283d4159
+< Wagnerian 1
+8309d4184
+< Was 4
+8325d4199
+< We 15
+8330d4203
+< Web 3
+8332d4204
+< Wedding 1
+8335d4206
+< Wednesday 1
+8341d4211
+< Well 46
+8345d4214
+< Wells 3
+8349d4217
+< Were 2
+8352d4219
+< West 1
+8364d4230
+< What 44
+8367,8368d4232
+< Whatever 2
+< When 11
+8371d4234
+< Whenever 1
+8375d4237
+< Where 7
+8380d4241
+< Which 2
+8382d4242
+< While 2
+8394d4253
+< Who 5
+8399d4257
+< Why 15
+8408d4265
+< Wilde 2
+8413d4269
+< Will 2
+8419d4274
+< Willis 3
+8440d4294
+< With 5
+8448d4301
+< Women 1
+8450d4302
+< Won 3
+8459d4310
+< Woolton 3
+8467d4317
+< Worn 1
+8470d4319
+< Worthing 64
+8472d4320
+< Would 1
+8482d4329
+< Writes 1
+8523d4369
+< YOU 6
+8527d4372
+< Yard 1
+8534d4378
+< Yes 61
+8541d4384
+< You 103
+8543d4385
+< Young 1
+8547d4388
+< Your 21
+8555,8556d4395
+< a 442
+< aback 2
+8559d4397
+< abandoned 1
+8570d4407
+< abide 1
+8578d4414
+< able 7
+8591,8592d4426
+< about 73
+< above 1
+8595d4428
+< abroad 1
+8600d4432
+< absence 4
+8606,8607d4437
+< absolute 6
+< absolutely 6
+8620d4449
+< abstraction 1
+8622d4450
+< absurd 11
+8624d4451
+< absurdly 1
+8629d4455
+< abused 1
+8642d4467
+< accept 2
+8646,8647d4470
+< accepted 4
+< accepting 1
+8650,8651d4472
+< accepts 1
+< access 10
+8653d4473
+< accessed 1
+8655d4474
+< accessible 1
+8665d4483
+< accompany 1
+8677d4494
+< accordance 2
+8679d4495
+< according 2
+8683d4498
+< account 1
+8688d4502
+< accounts 4
+8693d4506
+< accumulation 1
+8696d4508
+< accurate 1
+8698d4509
+< accurately 2
+8708d4518
+< accustomed 1
+8731d4540
+< acquire 1
+8741d4549
+< acres 1
+8745d4552
+< across 4
+8747d4553
+< act 1
+8749d4554
+< acted 1
+8753d4557
+< action 2
+8757d4560
+< active 2
+8764d4566
+< acts 1
+8766d4567
+< actual 1
+8770d4570
+< actually 4
+8778d4577
+< adapted 1
+8786d4584
+< addition 1
+8789,8790d4586
+< additional 3
+< additions 1
+8795d4590
+< address 5
+8798d4592
+< addresses 3
+8807d4600
+< adjoining 1
+8814d4606
+< admirable 3
+8817d4608
+< admire 1
+8819d4609
+< admired 1
+8825d4614
+< admission 2
+8828d4616
+< admit 7
+8832d4619
+< admitting 1
+8834d4620
+< adopt 2
+8836d4621
+< adopted 1
+8839d4623
+< adore 2
+8848d4631
+< adults 1
+8852d4634
+< advanced 3
+8855d4636
+< advancing 1
+8857d4637
+< advantage 1
+8874d4653
+< advice 1
+8877d4655
+< advisable 2
+8879d4656
+< advise 4
+8893d4669
+< affect 1
+8900d4675
+< affectionate 1
+8904d4678
+< affections 2
+8911d4684
+< affliction 1
+8923d4695
+< afraid 15
+8926d4697
+< after 25
+8928d4698
+< afternoon 16
+8931d4700
+< afterwards 1
+8933d4701
+< again 7
+8936d4703
+< against 3
+8938d4704
+< age 15
+8940d4705
+< aged 1
+8943d4707
+< agent 1
+8956d4719
+< agitated 2
+8960d4722
+< ago 5
+8967d4728
+< agree 7
+8969d4729
+< agreed 1
+8972d4731
+< agreement 17
+8974d4732
+< agricultural 1
+8988d4745
+< ailment 1
+8991d4747
+< aim 1
+8999d4754
+< air 2
+9009d4763
+< alarm 1
+9026d4779
+< alienating 1
+9032d4784
+< all 107
+9040d4791
+< alliance 2
+9045d4795
+< allow 10
+9049d4798
+< allowed 5
+9051d4799
+< allowing 2
+9056d4803
+< allude 1
+9061d4807
+< alluring 1
+9063d4808
+< allusion 2
+9071d4815
+< almost 9
+9076,9077d4819
+< alone 3
+< along 1
+9081d4822
+< already 11
+9085d4825
+< also 8
+9087d4826
+< alter 2
+9090d4828
+< alteration 2
+9092d4829
+< altered 2
+9094d4830
+< alternate 1
+9100d4835
+< although 2
+9103d4837
+< altogether 1
+9106d4839
+< always 44
+9109d4841
+< am 108
+9119d4850
+< amazement 3
+9143d4873
+< among 1
+9145d4874
+< amongst 1
+9148d4876
+< amount 1
+9157d4884
+< amuse 2
+9159d4885
+< amused 1
+9161d4886
+< amusement 1
+9165d4889
+< amuses 2
+9168,9169d4891
+< an 58
+< analogies 1
+9185d4906
+< and 316
+9189d4909
+< angel 1
+9196d4915
+< angrily 1
+9199d4917
+< anguish 1
+9217d4934
+< announcement 1
+9221d4937
+< annoyed 1
+9225d4940
+< annoys 1
+9232d4946
+< another 2
+9235d4948
+< answer 4
+9238d4950
+< answers 1
+9258d4969
+< anxiety 1
+9261,9262d4971
+< anxious 6
+< anxiously 1
+9264d4972
+< any 106
+9267d4974
+< anybody 7
+9270,9271d4976
+< anyone 6
+< anything 19
+9277d4981
+< anywhere 7
+9294d4997
+< apoplexy 2
+9307d5009
+< appealingly 1
+9310d5011
+< appear 5
+9312d5012
+< appearance 1
+9316d5015
+< appearing 1
+9318d5016
+< appears 2
+9323d5020
+< appetite 2
+9331d5027
+< applicable 3
+9335d5030
+< apply 1
+9341d5035
+< appointment 2
+9343d5036
+< appreciate 1
+9350d5042
+< apprehensions 1
+9356d5047
+< approach 1
+9360,9361d5050
+< approaches 3
+< approaching 1
+9368d5056
+< approve 5
+9397d5084
+< arduous 1
+9400d5086
+< are 162
+9403d5088
+< aren 2
+9405d5089
+< argue 2
+9409d5092
+< argument 1
+9411d5093
+< arguments 1
+9414d5095
+< arise 1
+9418d5098
+< aristocracy 2
+9420d5099
+< aristocratic 1
+9423d5101
+< arm 1
+9434d5111
+< arms 2
+9441d5117
+< arrange 2
+9445d5120
+< arrangements 3
+9447d5121
+< arranging 1
+9449d5122
+< array 1
+9456d5128
+< arrive 1
+9458d5129
+< arrived 2
+9460d5130
+< arrives 1
+9480d5149
+< artistically 1
+9485d5153
+< as 105
+9505d5172
+< ask 17
+9507d5173
+< asked 3
+9512d5177
+< aspect 1
+9542d5206
+< assistance 2
+9551d5214
+< associated 9
+9556d5218
+< assumed 1
+9562d5223
+< assured 1
+9574d5234
+< astonishment 1
+9576d5235
+< astounded 1
+9581d5239
+< astray 1
+9589d5246
+< at 161
+9603d5259
+< attached 2
+9614d5269
+< attempt 1
+9624d5278
+< attending 1
+9627d5280
+< attention 2
+9630d5282
+< attentive 1
+9632d5283
+< attentively 1
+9639d5289
+< attitude 1
+9646d5295
+< attractive 7
+9650d5298
+< attribute 1
+9669d5316
+< aunt 12
+9673d5319
+< aunts 2
+9678d5323
+< authenticity 1
+9684d5328
+< authors 1
+9692d5335
+< available 2
+9702d5344
+< average 1
+9717d5358
+< await 1
+9727,9728d5367
+< aware 5
+< away 8
+9735d5373
+< awfully 1
+9753d5390
+< b 1
+9759d5395
+< babies 1
+9762,9763d5397
+< baby 7
+< bachelor 1
+9765d5398
+< bachelors 1
+9767d5399
+< back 29
+9779d5410
+< bad 13
+9784d5414
+< badly 2
+9786d5415
+< bag 18
+9836d5464
+< bangle 1
+9851,9852d5478
+< baptism 2
+< baptized 1
+9890d5515
+< barrier 1
+9900d5524
+< based 2
+9906,9907d5529
+< basinette 1
+< basis 1
+9909d5530
+< basket 1
+9935d5555
+< be 176
+9948d5567
+< bear 1
+9960d5578
+< beastly 1
+9970d5587
+< beats 2
+9974d5590
+< beautiful 2
+9978d5593
+< beauty 3
+9982d5596
+< because 4
+9986d5599
+< become 5
+9988d5600
+< becomes 3
+9990d5601
+< becoming 3
+9992d5602
+< bed 1
+10004d5613
+< bedrooms 1
+10017d5625
+< been 66
+10019d5626
+< bees 1
+10030d5636
+< before 15
+10036d5641
+< beg 9
+10045d5649
+< begin 1
+10047d5650
+< beginning 1
+10051d5653
+< begins 5
+10054d5655
+< behalf 1
+10057,10058d5657
+< behave 3
+< behaved 2
+10062d5660
+< behaving 1
+10067d5664
+< behind 2
+10075d5671
+< being 16
+10083d5678
+< believe 11
+10089d5683
+< bell 3
+10102d5695
+< below 5
+10113d5705
+< bends 1
+10147d5738
+< best 4
+10153d5743
+< bet 1
+10158d5747
+< betoken 1
+10165d5753
+< better 14
+10170d5757
+< between 5
+10173d5759
+< beverage 1
+10178d5763
+< bewildered 1
+10183d5767
+< beyond 1
+10208d5791
+< bills 1
+10212d5794
+< binary 1
+10225d5806
+< birth 3
+10234d5814
+< bites 1
+10239d5818
+< bitter 1
+10250d5828
+< black 3
+10305d5882
+< blessing 1
+10307d5883
+< blessings 1
+10345d5920
+< bloom 1
+10359d5933
+< blow 3
+10371d5944
+< blue 3
+10384d5956
+< blurt 1
+10448d6019
+< book 6
+10450,10451d6020
+< bookcase 1
+< books 3
+10465d6033
+< bore 2
+10468,10469d6035
+< bored 2
+< bores 1
+10471d6036
+< boring 1
+10473d6037
+< born 2
+10485d6048
+< both 12
+10487d6049
+< bother 1
+10494d6055
+< bottle 1
+10497d6057
+< bottles 2
+10503d6062
+< bought 1
+10508d6066
+< bound 6
+10526d6083
+< bowed 1
+10534d6090
+< bows 3
+10536d6091
+< box 3
+10540d6094
+< boxes 1
+10542d6095
+< boy 13
+10571d6123
+< brand 1
+10573d6124
+< branded 1
+10597d6147
+< bread 7
+10601d6150
+< break 3
+10623d6171
+< bred 1
+10650d6197
+< brief 2
+10658d6204
+< brightly 1
+10662d6207
+< brilliant 1
+10672d6216
+< bring 2
+10674d6217
+< brings 1
+10694,10695d6236
+< broke 2
+< broken 3
+10699d6239
+< brokers 1
+10713d6252
+< brother 52
+10715d6253
+< brothers 2
+10719,10720d6256
+< brought 3
+< brow 1
+10815d6350
+< buried 1
+10839d6373
+< business 11
+10854d6387
+< but 55
+10856d6388
+< butler 1
+10861d6392
+< butter 9
+10870d6400
+< buttonhole 3
+10873d6402
+< buy 3
+10883d6411
+< by 53
+10889d6416
+< c 2
+10915d6441
+< cake 8
+10918d6443
+< calamity 1
+10920d6444
+< calculate 1
+10922d6445
+< calculated 1
+10924d6446
+< calculating 1
+10931,10932d6452
+< call 15
+< called 12
+10935d6454
+< calling 1
+10940,10941d6458
+< calls 3
+< calm 1
+10946d6462
+< calmly 3
+10951d6466
+< came 2
+10963d6477
+< can 67
+10965d6478
+< candid 1
+10969d6481
+< candidly 3
+10975d6486
+< candour 1
+10981d6491
+< cannot 14
+10987d6496
+< canonical 1
+10997d6505
+< capacious 1
+11004d6511
+< capital 1
+11029d6535
+< card 5
+11033d6538
+< cards 1
+11036,11037d6540
+< care 9
+< cared 1
+11043d6545
+< careful 2
+11046,11047d6547
+< carefully 5
+< careless 1
+11051d6550
+< carelessness 1
+11072d6570
+< carriage 4
+11076,11077d6573
+< carried 2
+< carries 1
+11079d6574
+< carry 2
+11085d6579
+< cart 4
+11087d6580
+< carter 1
+11096d6588
+< case 21
+11099d6590
+< cases 1
+11109d6599
+< cast 1
+11122d6611
+< catch 2
+11135d6623
+< caught 1
+11139d6626
+< cause 4
+11141d6627
+< caused 2
+11160,11161d6645
+< ccx 1
+< cease 2
+11163d6646
+< ceased 2
+11172d6654
+< celebrations 1
+11177,11178d6658
+< celibacy 2
+< celibate 1
+11199,11200d6678
+< ceremonials 1
+< ceremonies 1
+11202d6679
+< ceremony 1
+11205d6681
+< certain 4
+11209d6684
+< certainly 16
+11211d6685
+< certificates 1
+11216d6689
+< chafe 1
+11229d6701
+< chair 2
+11231d6702
+< chairs 1
+11244d6714
+< champagne 3
+11249d6718
+< chance 2
+11255,11256d6723
+< change 6
+< changeable 1
+11258d6724
+< changed 2
+11267d6732
+< chaps 1
+11269d6733
+< chapter 1
+11273d6736
+< character 8
+11283d6745
+< charge 8
+11285d6746
+< charges 1
+11291,11292d6751
+< charitable 3
+< charities 1
+11294d6752
+< charity 2
+11299d6756
+< charming 4
+11302d6758
+< charms 1
+11336d6791
+< check 2
+11341d6795
+< checks 1
+11343d6796
+< cheek 2
+11354d6806
+< cheerily 1
+11388d6839
+< chief 1
+11391d6841
+< chiefly 1
+11395d6844
+< child 10
+11398d6846
+< childish 2
+11403d6850
+< children 2
+11406d6852
+< chill 6
+11421d6866
+< chin 2
+11442d6886
+< choice 1
+11450,11451d6893
+< choose 4
+< chooses 1
+11465,11466d6906
+< christen 1
+< christened 17
+11468d6907
+< christening 3
+11471d6909
+< christenings 5
+11474d6911
+< chronicle 1
+11478d6914
+< chronicles 1
+11490d6925
+< church 1
+11498d6932
+< cigarette 12
+11507d6940
+< circle 1
+11519d6951
+< circumstances 2
+11535d6966
+< civilised 1
+11543d6973
+< claim 2
+11573,11574d7002
+< class 3
+< classes 2
+11577d7004
+< classical 1
+11590d7016
+< clean 1
+11601,11602d7026
+< clear 4
+< cleared 2
+11607d7030
+< clearly 4
+11621d7043
+< clever 6
+11623d7044
+< cleverness 1
+11631d7051
+< climate 1
+11648,11649d7067
+< cloak 5
+< clock 1
+11656d7073
+< close 1
+11659d7075
+< closely 1
+11666d7081
+< cloth 2
+11671d7085
+< clothes 4
+11676d7089
+< cloud 1
+11740d7152
+< codes 1
+11751d7162
+< coin 1
+11754d7164
+< coincidences 1
+11760d7169
+< cold 1
+11763d7171
+< coldly 1
+11765d7172
+< coldness 2
+11778d7184
+< collection 4
+11792d7197
+< colour 2
+11815d7219
+< come 22
+11822d7225
+< comes 1
+11827d7229
+< comfortable 1
+11839d7240
+< coming 5
+11852,11853d7252
+< commended 1
+< comment 1
+11857,11858d7255
+< comments 1
+< commerce 1
+11860d7256
+< commercial 1
+11869d7264
+< committed 1
+11873d7267
+< common 2
+11879d7272
+< communicate 1
+11883d7275
+< communication 1
+11893d7284
+< companion 1
+11898d7288
+< company 1
+11902d7291
+< comparatively 2
+11920d7308
+< competition 1
+11922d7309
+< compilation 1
+11927d7313
+< complaining 1
+11931d7316
+< complete 1
+11935d7319
+< completely 3
+11944d7327
+< compliance 4
+11954d7336
+< comply 6
+11956d7337
+< complying 3
+11972d7352
+< compressed 1
+11980d7359
+< computer 2
+11982d7360
+< computers 2
+11985d7362
+< conceal 1
+11994d7370
+< conceited 1
+12005d7380
+< concept 2
+12009,12010d7383
+< concerned 3
+< concerning 2
+12021d7393
+< conclusion 1
+12035,12036d7406
+< condolence 1
+< conduce 1
+12040d7409
+< conduct 4
+12049d7417
+< confess 1
+12051d7418
+< confessed 1
+12062d7428
+< confidence 5
+12069d7434
+< confidingly 1
+12077,12078d7441
+< confirmation 2
+< confirmations 1
+12081d7443
+< confirmed 3
+12110d7471
+< connected 3
+12120d7480
+< conscious 1
+12128d7487
+< consent 8
+12130d7488
+< consequence 1
+12134d7491
+< consequently 2
+12139,12140d7495
+< consider 3
+< considerable 2
+12143d7497
+< considerably 2
+12146d7499
+< consideration 2
+12150d7502
+< considered 1
+12153d7504
+< considering 1
+12162d7512
+< consolation 1
+12167d7516
+< consoles 1
+12182,12183d7530
+< constant 4
+< constantly 1
+12185d7531
+< consternation 1
+12187d7532
+< constituted 1
+12189d7533
+< constitution 1
+12204d7547
+< consumed 1
+12213d7555
+< contact 4
+12215d7556
+< contain 2
+12218,12219d7558
+< contained 3
+< containing 1
+12228d7566
+< contempt 1
+12234d7571
+< content 1
+12245d7581
+< continually 1
+12251d7586
+< continues 2
+12265d7599
+< contrary 1
+12270d7603
+< contributions 1
+12290d7622
+< conversation 3
+12296d7627
+< convert 1
+12299d7629
+< converts 1
+12309d7638
+< convincing 1
+12318d7646
+< convulsively 1
+12335d7662
+< copied 2
+12338d7664
+< copies 7
+12344d7669
+< copy 14
+12346d7670
+< copying 4
+12348d7671
+< copyright 13
+12364d7686
+< corner 2
+12373d7694
+< corporation 1
+12390d7710
+< corrupt 2
+12395d7714
+< cost 3
+12399d7717
+< costs 2
+12408d7725
+< cottages 1
+12417d7733
+< cough 6
+12420d7735
+< coughs 1
+12423d7737
+< could 22
+12425d7738
+< couldn 7
+12432d7744
+< count 1
+12445d7756
+< counties 2
+12449d7759
+< countries 1
+12451d7760
+< country 20
+12458d7766
+< county 2
+12461d7768
+< couples 1
+12463d7769
+< courage 1
+12467d7772
+< course 31
+12480d7784
+< cousin 10
+12485d7788
+< covered 1
+12495d7797
+< cowardly 1
+12523d7824
+< crape 1
+12548d7848
+< created 2
+12552,12553d7851
+< creating 3
+< creation 1
+12562d7859
+< credit 2
+12568,12569d7864
+< creditors 1
+< credulity 1
+12612d7906
+< critical 1
+12616d7909
+< criticism 1
+12631d7923
+< cross 1
+12635d7926
+< crosses 1
+12637d7927
+< crossing 1
+12648d7937
+< crowded 1
+12651d7939
+< crowds 1
+12672d7959
+< crumpets 1
+12674d7960
+< crush 1
+12676d7961
+< crushed 1
+12687d7971
+< crying 1
+12696,12697d7979
+< cucumber 5
+< cucumbers 3
+12701d7982
+< cuff 2
+12706d7986
+< cuffs 1
+12712d7991
+< cultivated 1
+12717d7995
+< culture 2
+12724d8001
+< cup 3
+12727d8003
+< cups 1
+12739d8014
+< curious 1
+12742d8016
+< curiously 2
+12746d8019
+< curls 1
+12750d8022
+< current 1
+12779d8050
+< custom 1
+12782d8052
+< customary 1
+12787d8056
+< cut 1
+12801d8069
+< cynical 2
+12805d8072
+< d 4
+12817d8083
+< daily 2
+12829d8094
+< damage 1
+12831d8095
+< damaged 1
+12834d8097
+< damages 2
+12856d8118
+< danger 1
+12858d8119
+< dangerous 1
+12869d8129
+< dare 2
+12871d8130
+< dared 1
+12875d8133
+< daresay 2
+12888d8145
+< darling 9
+12899d8155
+< data 1
+12901d8156
+< date 2
+12908d8162
+< daughter 5
+12916d8169
+< day 12
+12922d8174
+< days 8
+12930d8181
+< dead 3
+12938d8188
+< deal 1
+12945d8194
+< dear 59
+12947d8195
+< dearest 1
+12953d8200
+< death 6
+12966d8212
+< debonnair 1
+12969d8214
+< debts 2
+12974d8218
+< decay 1
+12981d8224
+< deceitful 1
+12983d8225
+< deceived 1
+12985d8226
+< deceiving 2
+12988d8228
+< decencies 1
+12990d8229
+< decent 1
+12992d8230
+< deception 3
+12995d8232
+< decide 1
+12997d8233
+< decided 1
+13003d8238
+< decision 3
+13015d8249
+< decline 2
+13035d8268
+< deductible 1
+13045d8277
+< deep 1
+13049d8280
+< deeper 1
+13051d8281
+< deepest 1
+13060d8289
+< defect 2
+13062d8290
+< defective 3
+13064d8291
+< defence 1
+13083d8309
+< definite 4
+13096d8321
+< degree 1
+13105d8329
+< deletions 1
+13110d8333
+< delicate 1
+13114d8336
+< delight 2
+13116d8337
+< delighted 1
+13119d8339
+< delightful 5
+13127d8346
+< delivered 1
+13136d8354
+< demand 1
+13140d8357
+< demeanour 1
+13149,13150d8365
+< demonstrative 1
+< demoralising 1
+13166,13167d8380
+< dentist 3
+< dentists 1
+13171d8383
+< deny 5
+13176d8387
+< departure 1
+13179,13180d8389
+< depend 2
+< depended 1
+13186d8394
+< depends 6
+13193d8400
+< deposit 1
+13195d8401
+< deposited 2
+13205d8410
+< depress 1
+13209d8413
+< depression 1
+13221,13222d8424
+< derivative 3
+< derive 1
+13224d8425
+< derived 1
+13239d8439
+< described 1
+13252d8451
+< deserve 1
+13260d8458
+< desire 5
+13263d8460
+< desires 1
+13266d8462
+< desirous 1
+13278d8473
+< desperate 1
+13296d8490
+< destined 1
+13298d8491
+< destiny 1
+13301d8493
+< destroy 2
+13310d8501
+< detach 1
+13315d8505
+< details 1
+13317d8506
+< detain 1
+13325d8513
+< determine 1
+13327d8514
+< determined 2
+13341d8527
+< develop 1
+13345d8530
+< developments 1
+13359d8543
+< devoted 1
+13361d8544
+< devotedly 2
+13364d8546
+< devotion 1
+13367d8548
+< devoured 1
+13390d8570
+< diary 14
+13397,13398d8576
+< dictating 1
+< dictation 1
+13401d8578
+< did 18
+13404d8580
+< didn 5
+13406d8581
+< die 6
+13409d8583
+< died 5
+13415d8588
+< different 5
+13420d8592
+< difficulty 1
+13431d8602
+< dignified 2
+13457,13458d8627
+< dine 8
+< dined 2
+13465,13466d8633
+< dining 4
+< dinner 7
+13479d8645
+< direction 1
+13481d8646
+< directions 1
+13483d8647
+< directly 1
+13489d8652
+< directory 1
+13492d8654
+< dirs 1
+13504d8665
+< disappear 1
+13511d8671
+< disappointed 1
+13515d8674
+< disappointment 4
+13535d8693
+< disclaim 1
+13538,13539d8695
+< disclaimer 2
+< disclaimers 1
+13555d8710
+< discontinue 1
+13565d8719
+< discover 1
+13567d8720
+< discovered 3
+13580d8732
+< discuss 1
+13596d8747
+< disgraceful 3
+13599d8749
+< disguise 1
+13606d8755
+< dish 2
+13619d8767
+< disk 1
+13622d8769
+< dislike 1
+13626d8772
+< disliking 1
+13642d8787
+< disown 1
+13653,13654d8797
+< display 2
+< displayed 1
+13657d8799
+< displaying 5
+13660d8801
+< displeased 1
+13666d8806
+< disposition 2
+13683d8822
+< disrespectfully 1
+13704d8842
+< distasteful 2
+13707d8844
+< distinct 2
+13713d8849
+< distinctly 3
+13724d8859
+< distress 1
+13726d8860
+< distressed 1
+13729d8862
+< distressing 2
+13732d8864
+< distribute 5
+13734d8865
+< distributed 4
+13736d8866
+< distributing 7
+13738d8867
+< distribution 6
+13741d8869
+< distrusted 1
+13743d8870
+< disturb 1
+13763d8889
+< divine 1
+13777d8902
+< do 80
+13786d8910
+< doctors 1
+13797d8920
+< does 25
+13799d8921
+< doesn 3
+13801d8922
+< dog 4
+13811d8931
+< doing 3
+13821d8940
+< domain 7
+13825d8943
+< domestic 3
+13828d8945
+< domesticity 1
+13837d8953
+< don 76
+13840,13841d8955
+< donate 5
+< donation 1
+13843d8956
+< donations 12
+13845d8957
+< done 5
+13852d8963
+< donors 1
+13858d8968
+< door 3
+13874d8983
+< doting 1
+13878d8986
+< double 1
+13884,13885d8991
+< doubt 9
+< doubted 1
+13890d8995
+< doubts 2
+13901d9005
+< down 29
+13904d9007
+< downloading 1
+13932d9034
+< drank 1
+13938d9039
+< draughts 1
+13945d9045
+< drawing 1
+13950d9049
+< drawn 4
+13955d9053
+< dreadful 3
+13959d9056
+< dream 2
+13961d9057
+< dreamed 1
+13978d9073
+< dress 4
+13980d9074
+< dressed 3
+13983d9076
+< dressing 2
+13986d9078
+< drew 1
+13993d9084
+< drink 2
+13997d9087
+< drinks 1
+14003d9092
+< drive 2
+14005d9093
+< driven 1
+14099d9186
+< during 3
+14108d9194
+< duties 4
+14110d9195
+< duty 8
+14118d9202
+< dying 1
+14120d9203
+< e 1
+14123d9205
+< eBook 8
+14125,14126d9206
+< eBooks 7
+< each 10
+14134d9213
+< earlier 1
+14141d9219
+< earnest 1
+14151d9228
+< earth 12
+14161d9237
+< easily 2
+14168d9243
+< easy 3
+14170d9244
+< eat 9
+14174,14175d9247
+< eating 7
+< eats 1
+14183d9254
+< eccentric 1
+14213d9283
+< edition 2
+14215d9284
+< editions 4
+14218d9286
+< educated 1
+14221,14222d9288
+< education 4
+< educational 1
+14228d9293
+< effect 3
+14235d9299
+< effeminate 1
+14239d9302
+< effort 3
+14241d9303
+< efforts 3
+14244d9305
+< effrontery 1
+14256d9316
+< eight 4
+14259d9318
+< eighteen 3
+14264d9322
+< either 10
+14271d9328
+< elaborate 2
+14282,14283d9338
+< elder 3
+< elderly 1
+14285d9339
+< eldest 1
+14287d9340
+< elect 1
+14290d9342
+< electric 1
+14295d9346
+< electronic 27
+14297d9347
+< electronically 2
+14314d9363
+< eligible 2
+14325d9373
+< else 14
+14335d9382
+< email 3
+14352d9398
+< embrace 2
+14355d9400
+< embracing 1
+14369d9413
+< emigrating 2
+14374d9417
+< emotional 1
+14388d9430
+< employee 1
+14390d9431
+< employees 2
+14399d9439
+< empty 1
+14422d9461
+< encoding 1
+14431d9469
+< encourage 1
+14433d9470
+< encouraged 1
+14437d9473
+< encouraging 1
+14441d9476
+< end 6
+14449d9483
+< ended 1
+14460d9493
+< endure 1
+14474d9506
+< engaged 20
+14476d9507
+< engagement 10
+14478d9508
+< engagements 2
+14497d9526
+< enjoyment 1
+14500d9528
+< enjoys 1
+14510d9537
+< enormously 1
+14512d9538
+< enough 9
+14526d9551
+< ensure 1
+14528d9552
+< ensuring 1
+14533,14534d9556
+< entanglement 2
+< enter 3
+14536d9557
+< entered 1
+14541d9561
+< enters 4
+14552d9571
+< enthusiastic 1
+14559d9577
+< entire 2
+14561d9578
+< entirely 7
+14566d9582
+< entity 3
+14571d9586
+< entrancing 1
+14574d9588
+< entrapped 2
+14584d9597
+< entry 1
+14592d9604
+< envelopes 1
+14605d9616
+< epidemic 1
+14614d9624
+< equality 1
+14617d9626
+< equally 1
+14621d9629
+< equanimity 1
+14625d9632
+< equipment 3
+14643d9649
+< error 3
+14645d9650
+< errors 2
+14650d9654
+< escape 1
+14659d9662
+< especially 5
+14665d9667
+< essence 1
+14669d9670
+< essentially 1
+14673d9673
+< establishment 1
+14675d9674
+< estate 1
+14679d9677
+< esteemed 1
+14686d9683
+< eternal 1
+14698d9694
+< even 18
+14702d9697
+< evening 3
+14710d9704
+< ever 30
+14715d9708
+< every 9
+14720d9712
+< everything 5
+14724d9715
+< evidence 1
+14728d9718
+< evidently 1
+14737d9726
+< exacted 1
+14741d9729
+< exactly 6
+14751,14752d9738
+< examines 1
+< examining 1
+14754d9739
+< example 1
+14757d9741
+< examples 1
+14766d9749
+< excellent 1
+14770d9752
+< except 6
+14772d9753
+< exception 1
+14778d9758
+< excesses 2
+14780d9759
+< excessively 3
+14789d9767
+< excitement 2
+14793d9770
+< exciting 2
+14802d9778
+< exclusion 1
+14809d9784
+< excuse 2
+14822d9796
+< exempt 2
+14825d9798
+< exercises 1
+14846d9818
+< exist 1
+14849d9820
+< existence 1
+14852d9822
+< exists 1
+14856d9825
+< exotic 1
+14862d9830
+< expect 1
+14871d9838
+< expected 6
+14881d9847
+< expend 1
+14884d9849
+< expense 1
+14886d9850
+< expenses 2
+14888d9851
+< expensive 1
+14890d9852
+< experience 2
+14893,14894d9854
+< experienced 3
+< experiences 1
+14911,14912d9870
+< explanation 6
+< explanations 1
+14914d9871
+< exploded 2
+14921d9877
+< explosion 1
+14925d9880
+< exporting 1
+14928d9882
+< expose 1
+14936d9889
+< expressed 2
+14940,14941d9892
+< expressing 1
+< expression 3
+14945d9895
+< expressly 1
+14948d9897
+< expurgations 1
+14950d9898
+< exquisitely 1
+14957d9904
+< extent 1
+14973d9919
+< extraordinary 4
+14976,14977d9921
+< extravagance 2
+< extravagant 1
+14980d9923
+< extremely 11
+14998d9940
+< eyes 1
+15004d9945
+< face 2
+15013d9953
+< facility 1
+15016d9955
+< fact 29
+15022d9960
+< facts 2
+15045d9982
+< fair 2
+15060d9996
+< fall 1
+15065d10000
+< false 3
+15079d10013
+< families 3
+15081d10014
+< family 5
+15090d10022
+< fancy 1
+15102d10033
+< far 10
+15127d10057
+< fascination 2
+15129d10058
+< fashion 1
+15131d10059
+< fashionable 1
+15134d10061
+< fashioned 2
+15136d10062
+< fast 2
+15155d10080
+< father 7
+15170d10094
+< faults 2
+15177,15178d10100
+< favour 3
+< favourable 1
+15186d10107
+< fear 4
+15188d10108
+< fearful 2
+15207d10126
+< federal 2
+15209d10127
+< fee 8
+15215d10132
+< feel 10
+15219d10135
+< feeling 1
+15221d10136
+< feelings 1
+15223d10137
+< feels 1
+15226d10139
+< fees 4
+15232d10144
+< fell 1
+15236d10147
+< fellow 12
+15243,15244d10153
+< felt 5
+< female 2
+15268d10176
+< festal 1
+15291d10198
+< few 7
+15296d10202
+< fibres 1
+15299d10204
+< fiction 1
+15317d10221
+< fifteen 2
+15321d10224
+< fifty 2
+15331d10233
+< file 2
+15335d10236
+< files 2
+15340d10240
+< filled 1
+15350d10249
+< finally 1
+15353d10251
+< financial 1
+15357d10254
+< find 5
+15359d10255
+< finding 1
+15361d10256
+< finds 1
+15363d10257
+< fine 1
+15369d10262
+< finger 1
+15372d10264
+< fingers 1
+15376d10267
+< finished 2
+15385d10275
+< fireplace 1
+15393d10282
+< firm 3
+15397d10285
+< first 22
+15419d10306
+< five 15
+15422d10308
+< fix 1
+15424d10309
+< fixed 1
+15459d10343
+< flat 1
+15496d10379
+< flight 2
+15505d10387
+< flirt 3
+15510d10391
+< flirts 2
+15546d10426
+< flower 1
+15551d10430
+< flowers 5
+15560d10438
+< fluently 1
+15603d10480
+< follow 2
+15606d10482
+< followed 4
+15608d10483
+< following 5
+15611d10485
+< folly 1
+15614d10487
+< fond 6
+15617d10489
+< fondest 2
+15622d10493
+< food 1
+15631d10501
+< foolish 3
+15636d10505
+< fools 3
+15638d10506
+< foot 1
+15645d10512
+< footman 2
+15655d10521
+< for 158
+15660d10525
+< forbid 1
+15665d10529
+< forced 2
+15705d10568
+< forgave 1
+15710d10572
+< forget 2
+15717d10578
+< forgive 6
+15720d10580
+< forgiving 1
+15724d10583
+< forgotten 4
+15732d10590
+< form 8
+15736d10593
+< format 4
+15739,15740d10595
+< formats 2
+< formed 1
+15754d10608
+< forte 2
+15756d10609
+< forth 8
+15765d10617
+< fortunate 1
+15768d10619
+< fortune 2
+15771d10621
+< forty 3
+15773d10622
+< forward 4
+15786d10634
+< found 9
+15796d10643
+< four 4
+15819d10665
+< frankly 5
+15821d10666
+< frankness 1
+15823d10667
+< frantic 2
+15834d10677
+< free 7
+15837d10679
+< freely 4
+15848d10689
+< frequently 1
+15860d10700
+< friend 8
+15864,15865d10703
+< friends 4
+< friendship 1
+15870d10707
+< frightened 1
+15894d10730
+< from 59
+15914d10749
+< fruit 1
+15919d10753
+< fruits 1
+15933d10766
+< full 12
+15937d10769
+< fully 2
+15946d10777
+< fun 1
+15952d10782
+< fundraising 3
+15964d10793
+< furious 2
+15969d10797
+< furnished 1
+15979d10806
+< further 1
+15989d10815
+< future 7
+16041d10866
+< garb 1
+16043d10867
+< garden 11
+16084d10907
+< gave 1
+16087d10909
+< gay 1
+16096d10917
+< gbnewby 1
+16110d10930
+< generations 2
+16115d10934
+< generous 2
+16128d10946
+< gentleman 6
+16130d10947
+< gentlemen 1
+16132d10948
+< gentleness 1
+16138d10953
+< geology 1
+16146d10960
+< get 16
+16151d10964
+< gets 2
+16155d10967
+< ghastly 3
+16184d10995
+< girl 19
+16187,16188d10997
+< girlish 1
+< girls 4
+16195d11003
+< give 17
+16198d11005
+< given 7
+16200d11006
+< gives 1
+16208d11013
+< glad 10
+16213d11017
+< gladly 1
+16219d11022
+< glances 1
+16224d11026
+< glare 2
+16226d11027
+< glares 3
+16229d11029
+< glass 1
+16231d11030
+< glasses 1
+16279d11077
+< gloves 2
+16293d11090
+< go 28
+16297d11093
+< goals 1
+16310d11105
+< goes 18
+16314d11108
+< going 15
+16317d11110
+< gold 1
+16324d11116
+< gone 3
+16329d11120
+< good 27
+16333d11123
+< goodness 4
+16354d11143
+< got 16
+16358d11146
+< govern 1
+16361d11148
+< governess 2
+16385,16386d11171
+< grammar 1
+< grand 2
+16390d11174
+< grandfather 1
+16400d11183
+< granted 1
+16422d11204
+< gratefully 1
+16432d11213
+< grave 3
+16439d11219
+< gravest 1
+16442d11221
+< gravity 1
+16449d11227
+< great 14
+16454d11231
+< greatly 1
+16459d11235
+< greedy 1
+16461d11236
+< green 1
+16471d11245
+< grey 1
+16474d11247
+< grief 2
+16479d11251
+< grieved 1
+16488d11259
+< grimace 1
+16506d11276
+< groan 1
+16510d11279
+< groans 1
+16519d11287
+< gross 2
+16523d11290
+< grotesque 2
+16531d11297
+< grounds 1
+16534d11299
+< group 1
+16542d11306
+< growing 1
+16548d11311
+< grows 2
+16561d11323
+< guarantee 1
+16564d11325
+< guardian 14
+16576d11336
+< guest 2
+16578d11337
+< guests 1
+16581d11339
+< guidance 1
+16618d11375
+< gutenberg 10
+16640d11396
+< had 61
+16642d11397
+< hadn 2
+16651d11405
+< hair 5
+16656d11409
+< half 8
+16676d11428
+< hand 33
+16694d11445
+< handles 2
+16697d11447
+< hands 7
+16706d11455
+< hang 1
+16720d11468
+< happen 2
+16723d11470
+< happened 3
+16726d11472
+< happens 1
+16728d11473
+< happier 1
+16732,16733d11476
+< happily 3
+< happiness 3
+16736d11478
+< happy 4
+16741d11482
+< hard 6
+16748d11488
+< hardly 17
+16762d11501
+< harmless 1
+16776d11514
+< harvest 1
+16778d11515
+< has 74
+16791,16792d11527
+< hat 3
+< hatband 1
+16798d11532
+< hate 6
+16816d11549
+< have 206
+16818d11550
+< haven 10
+16822d11553
+< having 5
+16836d11566
+< he 67
+16839,16840d11568
+< head 7
+< headache 4
+16857d11584
+< health 6
+16862d11588
+< hear 12
+16865d11590
+< heard 6
+16868d11592
+< hearing 2
+16884d11607
+< heartless 6
+16897d11619
+< heaven 1
+16901d11622
+< heavens 9
+16935d11655
+< help 5
+16939d11658
+< helping 1
+16955d11673
+< her 86
+16963d11680
+< here 31
+16966d11682
+< hereditary 3
+16969d11684
+< heretical 1
+16982d11696
+< herself 6
+16986d11699
+< hesitatingly 1
+16988d11700
+< hesitation 1
+17009,17010d11720
+< high 5
+< higher 2
+17012d11721
+< highest 2
+17015d11723
+< highly 1
+17025d11732
+< hills 1
+17033,17034d11739
+< him 39
+< himself 5
+17049d11753
+< his 66
+17095d11798
+< hold 2
+17097d11799
+< holder 4
+17099d11800
+< holding 1
+17101d11801
+< holds 1
+17120d11819
+< home 3
+17138d11836
+< honour 1
+17157d11854
+< hope 18
+17162d11858
+< hopelessly 2
+17177d11872
+< horrible 1
+17181d11875
+< horrid 3
+17184d11877
+< horror 2
+17196d11888
+< horticulturally 1
+17200d11891
+< hospitality 1
+17218,17219d11908
+< hour 9
+< hourly 1
+17221d11909
+< hours 1
+17223d11910
+< house 18
+17226d11912
+< household 1
+17229,17230d11914
+< households 1
+< housekeeper 1
+17232d11915
+< houses 1
+17245d11927
+< how 18
+17249d11930
+< however 4
+17257d11937
+< http 7
+17280d11959
+< humble 1
+17289d11967
+< humiliation 1
+17305d11982
+< hundred 5
+17307d11983
+< hundreds 1
+17316d11991
+< hungry 2
+17331d12005
+< hurriedly 1
+17337d12010
+< hurt 1
+17342,17343d12014
+< husband 5
+< husbands 1
+17365d12035
+< hypertext 1
+17367d12036
+< hypocrisy 1
+17379d12047
+< icy 1
+17382,17383d12049
+< idea 8
+< ideal 1
+17386d12051
+< ideals 1
+17388d12052
+< ideas 2
+17391d12054
+< identification 1
+17394d12056
+< identify 1
+17398d12059
+< idiotic 1
+17401d12061
+< idle 1
+17412d12071
+< if 67
+17417d12075
+< ignorance 2
+17424d12081
+< ill 2
+17448d12104
+< imagine 2
+17466d12121
+< immaterial 1
+17470,17471d12124
+< immediate 3
+< immediately 2
+17474d12126
+< immensely 2
+17479d12130
+< immersion 1
+17485,17486d12135
+< immoderately 1
+< immoral 1
+17501d12149
+< impatient 1
+17524d12171
+< impetuous 1
+17533d12179
+< implied 1
+17543d12188
+< importance 5
+17545d12189
+< important 7
+17549d12192
+< imposed 1
+17553d12195
+< impossibility 1
+17555d12196
+< impossible 1
+17566d12206
+< impression 2
+17568d12207
+< impressions 3
+17578d12216
+< improbable 2
+17581,17582d12218
+< improper 1
+< improve 2
+17585d12220
+< improvement 1
+17587d12221
+< improvements 1
+17601d12234
+< in 329
+17604d12236
+< inaccurate 1
+17615d12246
+< inattentive 1
+17630d12260
+< incident 3
+17642d12271
+< include 1
+17645,17646d12273
+< included 3
+< includes 1
+17649d12275
+< including 8
+17654d12279
+< income 3
+17657d12281
+< incomparable 2
+17660d12283
+< incomplete 1
+17662d12284
+< incomprehensible 1
+17670d12291
+< inconvenience 1
+17676d12296
+< increase 1
+17680d12299
+< increasing 1
+17692,17693d12310
+< indecorous 1
+< indeed 12
+17700d12316
+< indemnify 1
+17709d12324
+< indicate 1
+17712d12326
+< indicating 1
+17717d12330
+< indifferent 2
+17719d12331
+< indigestion 1
+17721d12332
+< indignant 3
+17724d12334
+< indignantly 2
+17726d12335
+< indignation 3
+17728d12336
+< indirectly 1
+17731d12338
+< indiscretion 1
+17739d12345
+< individual 4
+17745d12350
+< induce 2
+17760d12364
+< inexcusable 2
+17764d12367
+< inexperienced 1
+17776d12378
+< infant 2
+17791d12392
+< infinitely 1
+17803d12403
+< influence 5
+17806d12405
+< inform 3
+17810d12408
+< information 5
+17812d12409
+< informed 2
+17814d12410
+< infringement 1
+17840d12435
+< initials 1
+17851d12445
+< injury 1
+17865d12458
+< innocent 2
+17880d12472
+< inquiries 1
+17884d12475
+< inquiry 1
+17886d12476
+< inquisitive 1
+17895d12484
+< inscription 1
+17909d12497
+< inside 2
+17919d12506
+< insist 1
+17931d12517
+< inspection 1
+17936d12521
+< inspire 2
+17940d12524
+< inspires 3
+17946d12529
+< instance 4
+17952d12534
+< instead 1
+17957d12538
+< instinct 1
+17959d12539
+< instinctively 2
+17979d12558
+< insuperable 1
+17992d12570
+< intellectual 5
+17999,18000d12576
+< intend 5
+< intended 1
+18009d12584
+< intention 2
+18021,18022d12595
+< interested 6
+< interesting 3
+18026d12598
+< interfered 1
+18030d12601
+< interferes 1
+18035d12605
+< interment 1
+18042d12611
+< interpreted 1
+18048d12616
+< interrupting 2
+18062d12629
+< intimately 1
+18066d12632
+< into 30
+18076d12641
+< introduce 1
+18079d12643
+< introduced 2
+18084d12647
+< intrude 1
+18102d12664
+< invalid 6
+18105d12666
+< invalidity 1
+18108,18109d12668
+< invalids 1
+< invaluable 3
+18112d12670
+< invariably 2
+18117d12674
+< invented 3
+18129d12685
+< investigations 1
+18132d12687
+< investments 2
+18140d12694
+< invitations 2
+18143d12696
+< invited 1
+18149d12701
+< involuntary 1
+18169d12720
+< irreligious 1
+18174d12724
+< irresistible 2
+18181d12730
+< irretrievably 1
+18183d12731
+< irrevocable 1
+18188d12735
+< irritably 1
+18194d12740
+< is 428
+18199d12744
+< isn 16
+18208d12752
+< it 198
+18217,18218d12760
+< its 9
+< itself 1
+18231d12772
+< jacket 1
+18309d12849
+< join 1
+18330d12869
+< journey 1
+18342d12880
+< joyful 2
+18355d12892
+< judgments 1
+18357d12893
+< judicial 1
+18378d12913
+< just 20
+18402d12936
+< keep 9
+18405d12938
+< keeping 3
+18412d12944
+< kept 1
+18430d12961
+< kill 2
+18432d12962
+< killed 1
+18440d12969
+< kind 21
+18450d12978
+< kindly 5
+18463,18464d12990
+< kiss 3
+< kissed 1
+18466d12991
+< kisses 4
+18481d13005
+< kneeling 2
+18483d13006
+< knees 1
+18488d13010
+< knew 7
+18503d13024
+< knot 1
+18509d13029
+< know 57
+18513d13032
+< knowing 3
+18515d13033
+< knowledge 2
+18517d13034
+< known 5
+18519d13035
+< knows 4
+18555d13070
+< ladies 1
+18558d13072
+< lady 11
+18564d13077
+< laid 2
+18585d13097
+< land 4
+18599d13110
+< language 2
+18621,18622d13131
+< large 7
+< largely 1
+18625d13133
+< larger 2
+18636d13143
+< last 21
+18638d13144
+< lasted 1
+18646d13151
+< late 3
+18649d13153
+< later 2
+18652d13155
+< latest 1
+18665d13167
+< laugh 2
+18668d13169
+< laughing 1
+18676d13176
+< lavished 1
+18679d13178
+< law 3
+18684d13182
+< laws 8
+18692,18693d13189
+< lax 1
+< lay 2
+18699d13194
+< lays 1
+18706d13200
+< lead 3
+18712,18713d13205
+< leading 3
+< leads 2
+18734d13225
+< learn 1
+18736d13226
+< learned 2
+18742d13231
+< least 2
+18745d13233
+< leather 2
+18749d13236
+< leave 6
+18751d13237
+< leaves 2
+18753d13238
+< leaving 2
+18758d13242
+< lecture 1
+18763d13246
+< led 2
+18771d13253
+< left 9
+18775d13256
+< legal 2
+18777d13257
+< legally 2
+18784d13263
+< legislation 1
+18800d13278
+< lengths 1
+18802d13279
+< lengthy 1
+18812d13288
+< less 1
+18817,18818d13292
+< lesson 4
+< lessons 1
+18822d13295
+< let 8
+18828d13300
+< letters 7
+18836d13307
+< liability 2
+18838d13308
+< liar 1
+18848d13317
+< library 2
+18851,18852d13319
+< license 4
+< licensed 1
+18869d13335
+< lieu 2
+18872d13337
+< life 31
+18879d13343
+< lifetime 1
+18881d13344
+< lifted 1
+18898d13360
+< lights 1
+18900d13361
+< like 49
+18902d13362
+< liked 3
+18907d13366
+< likelihood 1
+18910d13368
+< likes 1
+18927d13384
+< limitation 3
+18929d13385
+< limited 2
+18938d13393
+< line 3
+18943d13397
+< linen 1
+18951d13404
+< lining 1
+18954d13406
+< linked 1
+18958d13409
+< links 3
+18965d13415
+< lip 1
+18968d13417
+< lips 1
+18976,18977d13424
+< list 2
+< listen 2
+18983d13429
+< listening 3
+18991d13436
+< literature 1
+18998d13442
+< little 34
+19001d13444
+< live 9
+19011d13453
+< lives 4
+19015d13456
+< living 2
+19017d13457
+< ll 13
+19020d13459
+< load 1
+19034d13472
+< loathe 1
+19043d13480
+< locality 2
+19047d13483
+< located 4
+19050,19051d13485
+< locations 2
+< lock 1
+19085d13518
+< long 14
+19089d13521
+< longer 2
+19097d13528
+< look 14
+19099d13529
+< looked 2
+19103d13532
+< looking 9
+19105d13533
+< looks 22
+19113d13540
+< loose 1
+19124,19125d13550
+< lorgnette 1
+< lorgnettte 1
+19128d13552
+< lose 3
+19132d13555
+< loss 2
+19135,19136d13557
+< lost 6
+< lot 3
+19138d13558
+< lots 1
+19144d13563
+< loudly 1
+19151d13569
+< love 23
+19153d13570
+< loved 1
+19161d13577
+< lover 1
+19165d13580
+< loving 1
+19171d13585
+< lower 1
+19188d13601
+< luggage 4
+19201d13613
+< lumps 2
+19205d13616
+< luncheon 1
+19230d13640
+< luxuriously 1
+19232d13641
+< luxury 1
+19240d13648
+< m 14
+19245d13652
+< machinations 1
+19247d13653
+< machine 1
+19253d13658
+< madam 1
+19258d13662
+< made 8
+19264d13667
+< magazines 1
+19282d13684
+< maid 2
+19288d13689
+< mail 1
+19291d13691
+< main 1
+19297d13696
+< maintaining 1
+19301d13699
+< majestic 1
+19307d13704
+< make 20
+19311d13707
+< makes 11
+19313d13708
+< making 3
+19320d13714
+< male 1
+19328d13721
+< mamma 9
+19331d13723
+< man 29
+19333d13724
+< manage 1
+19337d13727
+< manager 1
+19340d13729
+< manages 1
+19348d13736
+< mania 1
+19359d13746
+< manna 1
+19361d13747
+< manner 10
+19366d13751
+< manners 1
+19378d13762
+< manuscript 4
+19380d13763
+< many 12
+19400d13782
+< marked 2
+19402d13783
+< market 1
+19409d13789
+< marriage 7
+19411d13790
+< marriages 1
+19414,19415d13792
+< married 28
+< marries 1
+19418d13794
+< marry 10
+19420d13795
+< marrying 1
+19432d13806
+< marvellous 1
+19439d13812
+< mask 1
+19476d13848
+< matrimony 1
+19479d13850
+< matter 16
+19481d13851
+< matters 3
+19491d13860
+< maximum 1
+19493d13861
+< may 50
+19502d13869
+< me 147
+19508d13874
+< meals 2
+19512d13877
+< mean 23
+19515d13879
+< meaning 2
+19520d13883
+< means 8
+19522d13884
+< meant 1
+19526d13887
+< measles 1
+19550d13910
+< medical 1
+19560d13919
+< meditative 1
+19563d13921
+< medium 5
+19568d13925
+< meet 4
+19571d13927
+< meeting 2
+19575d13930
+< melancholy 1
+19582d13936
+< melodramatic 1
+19588d13941
+< member 1
+19596d13948
+< memories 1
+19600d13951
+< memory 1
+19602d13952
+< men 10
+19613d13962
+< mental 3
+19616d13964
+< mention 6
+19618,19619d13965
+< mentioned 8
+< mentioning 1
+19625d13970
+< mercenary 1
+19637d13981
+< merely 7
+19643d13986
+< merriment 1
+19656d13998
+< met 11
+19659d14000
+< metallic 1
+19663,19664d14003
+< metaphor 2
+< metaphorically 1
+19667d14005
+< metaphysical 2
+19671d14008
+< method 1
+19673d14009
+< methods 1
+19685d14020
+< middle 1
+19690d14024
+< midnight 1
+19696d14029
+< might 16
+19708d14040
+< military 1
+19726d14057
+< mind 10
+19732d14062
+< mine 4
+19747d14076
+< minor 1
+19755d14083
+< minutes 5
+19770d14097
+< misanthrope 1
+19779d14105
+< misconception 1
+19788d14113
+< misfortune 1
+19794d14118
+< mislaid 1
+19798d14121
+< miss 3
+19800d14122
+< missed 1
+19807d14128
+< mission 4
+19813d14133
+< mistake 2
+19825d14144
+< misunderstanding 2
+19853d14171
+< modern 6
+19859d14176
+< modification 1
+19861d14177
+< modified 1
+19869d14184
+< moment 22
+19872d14186
+< momentary 1
+19875d14188
+< moments 2
+19882d14194
+< money 7
+19895d14206
+< monster 1
+19902d14212
+< monthly 1
+19904d14213
+< months 6
+19908d14216
+< mood 2
+19927d14234
+< moral 6
+19932d14238
+< morbid 1
+19935d14240
+< morbidity 1
+19937d14241
+< more 30
+19941d14244
+< morning 7
+19946d14248
+< morrow 2
+19964d14265
+< most 24
+19968d14268
+< mother 6
+19971d14270
+< mothers 1
+19979d14277
+< motives 2
+20005d14302
+< mourning 4
+20015d14311
+< move 1
+20018d14313
+< movement 1
+20024d14318
+< much 35
+20034,20035d14327
+< muffin 4
+< muffins 14
+20088d14379
+< music 9
+20100d14390
+< must 46
+20104d14393
+< mustn 1
+20120d14408
+< my 143
+20125d14412
+< myself 18
+20133d14419
+< myth 1
+20146,20147d14431
+< name 56
+< named 1
+20151d14434
+< names 5
+20176d14458
+< natural 2
+20179d14460
+< naturally 6
+20181,20182d14461
+< nature 8
+< natured 1
+20194d14472
+< nd 1
+20199d14476
+< nearer 1
+20204d14480
+< nearly 7
+20209d14484
+< necessarily 1
+20211d14485
+< necessary 3
+20221d14494
+< neckties 2
+20225d14497
+< need 7
+20235d14506
+< neglect 1
+20248d14518
+< neighbourhood 1
+20253,20254d14522
+< neighbours 3
+< neither 1
+20258,20259d14525
+< neologistic 1
+< nephew 7
+20266d14531
+< nervous 1
+20268d14532
+< nervously 1
+20278d14541
+< network 1
+20281d14543
+< never 50
+20285d14546
+< new 4
+20290d14550
+< news 2
+20292d14551
+< newsletter 1
+20294d14552
+< newspaper 1
+20296d14553
+< newspapers 1
+20299d14555
+< next 12
+20306d14561
+< nice 7
+20309d14563
+< nicer 1
+20318d14571
+< nigh 1
+20321d14573
+< night 9
+20335d14586
+< nine 1
+20347d14597
+< no 71
+20350d14599
+< noble 1
+20355d14603
+< noblest 1
+20357d14604
+< nobody 1
+20366d14612
+< noise 3
+20377d14622
+< non 1
+20380d14624
+< none 2
+20384d14627
+< nonproprietary 1
+20386d14628
+< nonsense 10
+20396d14637
+< nor 2
+20411d14651
+< not 162
+20418d14657
+< note 3
+20425d14663
+< nothing 16
+20428d14665
+< notice 6
+20434d14670
+< noticing 1
+20436d14671
+< notifies 1
+20442d14676
+< notorious 1
+20450,20451d14683
+< novel 3
+< novels 2
+20457d14688
+< now 32
+20459d14689
+< nowadays 5
+20472d14701
+< nuisance 1
+20476d14704
+< number 6
+20479d14706
+< numerous 1
+20497d14723
+< o 1
+20516d14741
+< object 2
+20519d14743
+< objection 2
+20528d14751
+< obliged 3
+20541d14763
+< observation 1
+20545d14766
+< observed 1
+20551d14771
+< obsolete 1
+20559d14778
+< obtain 3
+20561d14779
+< obtained 1
+20563d14780
+< obtaining 2
+20566d14782
+< obvious 2
+20568d14783
+< obviously 2
+20570d14784
+< occasion 2
+20574d14787
+< occasionally 2
+20576d14788
+< occasions 1
+20582d14793
+< occupation 2
+20588d14798
+< occur 2
+20590d14799
+< occurred 2
+20607,20608d14815
+< of 485
+< off 18
+20613d14819
+< offend 1
+20618d14823
+< offer 4
+20620d14824
+< offering 2
+20623d14826
+< offers 1
+20626d14828
+< office 2
+20631d14832
+< official 3
+20636d14836
+< often 15
+20638d14837
+< oftener 1
+20648d14846
+< old 19
+20650d14847
+< older 1
+20662d14858
+< omit 1
+20665d14860
+< omnibus 1
+20671d14865
+< on 103
+20673d14866
+< once 18
+20678d14870
+< one 119
+20682d14873
+< oneself 1
+20689,20690d14879
+< online 4
+< only 27
+20701d14889
+< open 2
+20705d14892
+< opener 1
+20708d14894
+< openly 1
+20711d14896
+< opens 1
+20719d14903
+< opinion 2
+20724d14907
+< opportunities 1
+20727d14909
+< opportunity 7
+20745d14926
+< or 101
+20759d14939
+< ordeal 1
+20762,20763d14941
+< order 9
+< ordered 2
+20766d14943
+< orders 1
+20770d14946
+< ordinary 4
+20772d14947
+< org 13
+20778d14952
+< organized 1
+20787,20788d14960
+< origin 2
+< original 1
+20791d14962
+< originally 1
+20793d14963
+< originator 1
+20812d14981
+< ostentatiously 1
+20816d14984
+< other 35
+20819d14986
+< others 5
+20827d14993
+< our 14
+20830d14995
+< ours 1
+20834d14998
+< out 47
+20842d15005
+< outdated 1
+20846d15008
+< outfit 2
+20856d15017
+< outlying 1
+20858d15018
+< outrage 2
+20868d15027
+< outside 3
+20884d15042
+< over 22
+20904d15061
+< overhead 1
+20912d15068
+< overlook 1
+20945d15100
+< owed 1
+20952d15106
+< own 35
+20955d15108
+< owner 4
+20959d15111
+< owns 2
+20968d15119
+< pack 1
+20981d15131
+< page 3
+20984d15133
+< pages 1
+20986d15134
+< paid 6
+20990d15137
+< pain 1
+20994,20995d15140
+< painful 6
+< painfully 1
+20997d15141
+< pains 1
+21014d15157
+< pale 1
+21067d15209
+< papa 2
+21069d15210
+< paper 1
+21071d15211
+< papers 2
+21073d15212
+< paperwork 1
+21081d15219
+< paragraph 10
+21084d15221
+< paragraphs 3
+21091d15227
+< parasol 1
+21094d15229
+< parcel 1
+21099d15233
+< pardon 6
+21102d15235
+< parent 2
+21106d15238
+< parents 6
+21109d15240
+< parish 1
+21126d15256
+< part 11
+21137d15266
+< particular 9
+21139d15267
+< particularly 5
+21143,21144d15270
+< parties 4
+< parting 1
+21150d15275
+< party 1
+21152d15276
+< pass 1
+21166d15289
+< passionate 1
+21168d15290
+< passionately 2
+21175d15296
+< past 2
+21189d15309
+< pathetic 1
+21204d15323
+< patronising 1
+21214d15332
+< pause 7
+21227d15344
+< pay 2
+21229d15345
+< paying 2
+21233,21234d15348
+< payments 3
+< pays 1
+21237d15350
+< peace 1
+21272d15384
+< peculiarly 6
+21302d15413
+< pencil 1
+21320d15430
+< people 31
+21329d15438
+< perambulator 3
+21343,21344d15451
+< perfect 7
+< perfection 2
+21348d15454
+< perfectly 29
+21350d15455
+< perform 2
+21353d15457
+< performances 1
+21355d15458
+< performed 2
+21360d15462
+< performing 3
+21366d15467
+< perhaps 1
+21374,21375d15474
+< period 3
+< periodic 1
+21385d15483
+< permanent 4
+21388,21389d15485
+< permission 7
+< permit 1
+21393d15488
+< permitted 3
+21415d15509
+< persistently 1
+21418d15511
+< person 9
+21427,21428d15519
+< personification 1
+< persons 1
+21451d15541
+< pessimist 1
+21473d15562
+< pew 1
+21477d15565
+< pglaf 4
+21486d15573
+< philanthropic 2
+21499,21500d15585
+< phrase 5
+< phrased 1
+21508d15592
+< physical 6
+21510d15593
+< physicians 1
+21516d15598
+< piano 2
+21524d15605
+< picks 2
+21529d15609
+< picture 1
+21575d15654
+< pink 2
+21580d15658
+< pint 2
+21624d15701
+< pity 2
+21630d15706
+< place 19
+21632d15707
+< placed 4
+21641d15715
+< plain 5
+21671d15744
+< plate 3
+21674d15746
+< platform 1
+21682d15753
+< play 4
+21690d15760
+< playing 1
+21695d15764
+< plays 2
+21704,21705d15772
+< pleasant 8
+< pleasanter 1
+21709d15775
+< please 4
+21711d15776
+< pleased 4
+21717d15781
+< pleasure 14
+21719d15782
+< pleasures 3
+21762d15824
+< poachers 1
+21764d15825
+< pocket 3
+21777d15837
+< point 5
+21779d15838
+< pointing 1
+21783d15841
+< points 3
+21798d15855
+< police 1
+21806d15862
+< polite 1
+21808d15863
+< politely 2
+21810d15864
+< politeness 1
+21816d15869
+< politics 1
+21837d15889
+< poor 15
+21839d15890
+< poorer 1
+21846d15896
+< popular 1
+21865d15914
+< portmanteaus 1
+21873d15921
+< position 8
+21876d15923
+< positively 1
+21880d15926
+< possessed 1
+21884d15929
+< possession 2
+21887d15931
+< possibilities 3
+21891d15934
+< possible 7
+21893d15935
+< possibly 7
+21896,21897d15937
+< postal 1
+< posted 4
+21908d15947
+< posture 1
+21920d15958
+< pounds 2
+21938d15975
+< practical 1
+21941d15977
+< practically 2
+21943d15978
+< practice 5
+21946d15980
+< practised 2
+21961d15994
+< pray 3
+21970d16002
+< preached 1
+21982d16013
+< precept 1
+22003d16033
+< prefer 1
+22015d16044
+< preliminary 1
+22019d16047
+< premature 3
+22026d16053
+< prepare 2
+22028d16054
+< prepared 2
+22036d16061
+< presence 2
+22039d16063
+< present 16
+22046d16069
+< presents 2
+22048d16070
+< preserve 2
+22050d16071
+< preserved 1
+22060d16080
+< presses 1
+22067d16086
+< presume 2
+22071,22072d16089
+< presumptuous 1
+< pretence 1
+22075,22076d16091
+< pretend 2
+< pretended 1
+22078d16092
+< pretending 2
+22084d16097
+< prettiest 2
+22088d16100
+< pretty 6
+22093d16104
+< prevent 2
+22097d16107
+< prevents 1
+22099d16108
+< previous 1
+22116d16124
+< primary 1
+22125d16132
+< principal 1
+22128d16134
+< principle 1
+22130d16135
+< principles 1
+22132d16136
+< print 1
+22134d16137
+< printed 2
+22140d16142
+< prior 1
+22148d16149
+< private 2
+22150d16150
+< privately 1
+22162d16161
+< probable 1
+22165d16163
+< probably 7
+22168d16165
+< problem 1
+22171,22172d16167
+< problematic 1
+< problems 1
+22181d16175
+< processing 1
+22195,22196d16188
+< produce 7
+< produced 1
+22198d16189
+< produces 6
+22202d16192
+< production 1
+22210d16199
+< profession 1
+22220d16208
+< profile 4
+22222d16209
+< profit 3
+22226,22227d16212
+< profitless 1
+< profits 1
+22232d16216
+< profligate 1
+22240d16223
+< programme 2
+22245d16227
+< prohibition 1
+22258,22259d16239
+< prominently 2
+< promise 2
+22261d16240
+< promised 2
+22267,22268d16245
+< promoting 2
+< promotion 1
+22280,22281d16256
+< proof 2
+< proofread 1
+22289d16263
+< proper 3
+22292d16265
+< property 3
+22305d16277
+< proposal 2
+22308,22309d16279
+< propose 8
+< proposed 3
+22312d16281
+< proposing 2
+22317d16285
+< propounding 1
+22319d16286
+< proprietary 1
+22334d16300
+< protect 2
+22337d16302
+< protection 1
+22353d16317
+< proud 1
+22357d16320
+< proudly 1
+22359d16321
+< prove 2
+22361d16322
+< proved 1
+22366,22367d16326
+< provide 7
+< provided 3
+22370d16328
+< providing 4
+22373d16330
+< provincial 1
+22376d16332
+< provision 1
+22378d16333
+< provisions 1
+22398,22399d16352
+< public 13
+< publication 2
+22403d16355
+< published 1
+22420d16371
+< pulpits 1
+22433,22434d16383
+< punctual 1
+< punctuality 1
+22442d16390
+< punished 1
+22449d16396
+< pupil 2
+22458d16404
+< purchased 1
+22460d16405
+< pure 2
+22469d16413
+< purple 1
+22472d16415
+< purpose 2
+22492d16434
+< put 11
+22496d16437
+< puts 5
+22501d16441
+< puzzled 1
+22510d16449
+< quails 1
+22517,22518d16455
+< qualities 2
+< quality 1
+22526d16462
+< quarter 1
+22529d16464
+< quarters 1
+22541d16475
+< question 12
+22546d16479
+< questions 2
+22558d16490
+< quietly 1
+22567d16498
+< quite 62
+22596d16526
+< radically 1
+22619d16548
+< railway 4
+22659d16587
+< ranks 1
+22668d16595
+< rapidly 1
+22680d16606
+< rarely 4
+22696d16621
+< rate 7
+22698d16622
+< rather 15
+22730d16653
+< re 6
+22734,22735d16656
+< reached 2
+< reaches 1
+22737d16657
+< reaching 1
+22740d16659
+< read 10
+22743d16661
+< readable 2
+22748d16665
+< reading 1
+22750d16666
+< reads 2
+22753,22754d16668
+< ready 6
+< real 3
+22757d16670
+< realise 2
+22759d16671
+< realised 1
+22771d16682
+< really 29
+22774d16684
+< reap 2
+22785,22786d16694
+< reason 5
+< reasonable 1
+22802d16709
+< recall 1
+22810d16716
+< receipt 2
+22812d16717
+< receive 3
+22814d16718
+< received 7
+22819d16722
+< receiving 2
+22821d16723
+< recently 1
+22824d16725
+< reception 1
+22836d16736
+< reckless 2
+22842d16741
+< reclaim 1
+22847d16745
+< recognised 1
+22855d16752
+< recollect 1
+22868d16764
+< recommending 1
+22873d16768
+< reconciliation 2
+22875d16769
+< reconsider 1
+22880d16773
+< record 1
+22884d16776
+< records 1
+22896d16787
+< recumbent 1
+22905d16795
+< redistribute 1
+22907d16796
+< redistributing 1
+22909d16797
+< redistribution 1
+22912d16799
+< redoubled 1
+22916d16802
+< reduced 1
+22927d16812
+< refer 1
+22929d16813
+< reference 1
+22932d16815
+< references 2
+22939d16821
+< refined 1
+22950d16831
+< reform 1
+22953d16833
+< reforming 1
+22963d16842
+< refreshment 1
+22967d16845
+< refund 8
+22970d16847
+< refuse 2
+22972d16848
+< refused 1
+22974d16849
+< refusing 1
+22977d16851
+< refuted 1
+22982d16855
+< regard 1
+22985d16857
+< regarded 2
+22988d16859
+< regards 1
+22995d16865
+< registered 2
+22998d16867
+< registration 1
+23002d16870
+< regret 2
+23007d16874
+< regular 1
+23013d16879
+< regulating 1
+23036d16901
+< relapse 1
+23042d16906
+< related 1
+23048d16911
+< relations 4
+23051d16913
+< relative 1
+23054d16915
+< relatives 1
+23086d16946
+< rely 1
+23089d16948
+< remain 2
+23093d16951
+< remained 1
+23095d16952
+< remaining 2
+23097d16953
+< remains 1
+23102d16957
+< remark 1
+23105d16959
+< remarkably 1
+23109d16962
+< remarks 1
+23115,23116d16967
+< remember 5
+< remembered 1
+23122d16972
+< remind 1
+23127d16976
+< reminds 2
+23137d16985
+< remote 1
+23139d16986
+< remotely 1
+23143d16989
+< remotest 2
+23146d16991
+< remove 1
+23148d16992
+< removed 2
+23153d16996
+< renamed 1
+23185d17027
+< repeat 1
+23192d17033
+< repellent 1
+23194d17034
+< repentance 2
+23202d17041
+< replace 1
+23206d17044
+< replacement 3
+23210d17047
+< reply 1
+23213d17049
+< reported 1
+23217d17052
+< reports 1
+23223d17057
+< representations 1
+23232d17065
+< reproach 1
+23254d17086
+< request 1
+23259,23260d17090
+< require 4
+< required 1
+23264,23265d17093
+< requirements 4
+< requires 2
+23273d17100
+< rescue 1
+23277d17103
+< research 2
+23289d17114
+< reserving 1
+23292d17116
+< reside 1
+23298d17121
+< resides 2
+23302d17124
+< resigned 1
+23318d17139
+< resort 2
+23326,23327d17146
+< respect 4
+< respectability 2
+23329d17147
+< respectable 1
+23340d17157
+< responsibility 2
+23342d17158
+< responsible 1
+23356d17171
+< restored 2
+23361,23362d17175
+< restraining 1
+< restrains 2
+23366d17178
+< restraints 1
+23368d17179
+< restrictions 2
+23370d17180
+< result 3
+23378d17187
+< retain 1
+23389d17197
+< retire 3
+23393d17200
+< retires 2
+23396d17202
+< retort 1
+23408,23409d17213
+< return 6
+< returned 3
+23412d17215
+< returns 1
+23414d17216
+< reveal 1
+23448d17249
+< revolting 1
+23452d17252
+< revolutionary 1
+23457d17256
+< reward 2
+23469d17267
+< ribbon 1
+23481d17278
+< rid 4
+23491d17287
+< ridiculous 2
+23501d17296
+< right 18
+23512d17306
+< ring 3
+23537d17330
+< rise 3
+23542d17334
+< rises 2
+23545d17336
+< rising 2
+23552d17342
+< rites 1
+23609d17398
+< romance 2
+23613d17401
+< romantic 6
+23623d17410
+< room 24
+23636d17422
+< rose 3
+23638d17423
+< roses 2
+23651d17435
+< round 14
+23676,23677d17459
+< royalties 2
+< royalty 1
+23712d17493
+< rule 1
+23716d17496
+< rules 3
+23732d17511
+< run 2
+23738d17516
+< runs 1
+23745d17522
+< rushes 1
+23761d17537
+< s 96
+23772d17547
+< sacrifice 1
+23778d17552
+< sad 3
+23788d17561
+< sadly 2
+23791d17563
+< safe 1
+23801d17572
+< said 14
+23812d17582
+< sake 5
+23837,23838d17606
+< salver 5
+< same 10
+23846d17613
+< sandwich 2
+23850d17616
+< sandwiches 5
+23879d17644
+< satisfaction 2
+23881,23882d17645
+< satisfactory 3
+< satisfied 1
+23884d17646
+< satisfy 1
+23900d17661
+< save 1
+23907d17667
+< savour 1
+23910d17669
+< saw 6
+23916d17674
+< say 41
+23920d17677
+< saying 2
+23922d17678
+< says 2
+23936d17691
+< scandal 1
+23938d17692
+< scandalous 1
+23957d17710
+< scattered 1
+23968d17720
+< scepticism 1
+23974d17725
+< scholar 1
+23989d17739
+< schools 2
+23992d17741
+< science 2
+23999d17747
+< scissors 1
+24019d17766
+< scornful 1
+24024d17770
+< scoundrel 2
+24040d17785
+< scrape 1
+24044d17788
+< scrapes 2
+24098d17841
+< search 1
+24107d17849
+< seaside 2
+24109d17850
+< season 2
+24113d17853
+< seat 1
+24115d17854
+< seated 1
+24123d17861
+< second 4
+24129d17866
+< secret 2
+24133d17869
+< secretive 1
+24136d17871
+< secrets 1
+24141,24142d17875
+< secular 1
+< secure 1
+24156d17888
+< see 29
+24162d17893
+< seeing 1
+24168,24169d17898
+< seem 18
+< seemed 1
+24175d17903
+< seems 28
+24177,24178d17904
+< seen 5
+< sees 1
+24186d17911
+< seizes 1
+24199d17923
+< self 1
+24209d17932
+< semi 1
+24213d17935
+< send 2
+24217,24218d17938
+< sending 3
+< sends 1
+24224d17943
+< sensational 2
+24228d17946
+< sense 7
+24235d17952
+< sensible 3
+24242,24243d17958
+< sent 3
+< sentence 2
+24247d17961
+< sentiment 1
+24252d17965
+< sentimentality 1
+24254d17966
+< sentiments 1
+24260d17971
+< separate 2
+24262d17972
+< separation 1
+24274d17983
+< serious 16
+24277d17985
+< seriously 3
+24280,24281d17987
+< sermon 2
+< sermons 1
+24286d17991
+< servants 2
+24288d17992
+< serve 1
+24290d17993
+< served 1
+24293d17995
+< service 1
+24301d18002
+< set 11
+24308d18008
+< settled 3
+24314d18013
+< seven 3
+24320d18018
+< several 3
+24322d18019
+< severe 7
+24332d18028
+< sex 2
+24334d18029
+< sexes 1
+24356d18050
+< shake 2
+24360d18053
+< shaking 1
+24363d18055
+< shall 13
+24365d18056
+< shallow 2
+24369d18059
+< shallying 1
+24374d18063
+< shame 3
+24377d18065
+< shameful 1
+24381d18068
+< shan 1
+24389d18075
+< share 1
+24391d18076
+< shared 1
+24394d18078
+< sharing 1
+24411d18094
+< she 35
+24436d18118
+< sherry 2
+24440d18121
+< shield 1
+24447d18127
+< shilly 1
+24467d18146
+< shirt 2
+24471d18149
+< shiver 1
+24479d18156
+< shocked 1
+24490d18166
+< shoot 1
+24502d18177
+< short 5
+24515d18189
+< should 47
+24522d18195
+< shouldn 4
+24537d18209
+< show 2
+24569d18240
+< shudder 1
+24581d18251
+< shy 1
+24585d18254
+< sick 1
+24598d18266
+< side 5
+24614d18281
+< sigh 1
+24620,24621d18286
+< sight 2
+< sighted 2
+24624d18288
+< sign 2
+24637d18300
+< signs 1
+24639d18301
+< silence 2
+24653d18314
+< silly 3
+24659d18319
+< similar 2
+24665d18324
+< simple 5
+24672d18330
+< simplicity 1
+24676d18333
+< simply 5
+24680d18336
+< since 10
+24682d18337
+< sincere 1
+24686d18340
+< sincerity 1
+24695d18348
+< single 4
+24705d18357
+< sinks 1
+24717d18368
+< sir 30
+24722d18372
+< sister 3
+24724d18373
+< sit 6
+24727,24728d18375
+< site 4
+< sits 1
+24732d18378
+< sitting 1
+24735d18380
+< situation 1
+24742d18386
+< six 4
+24747d18390
+< size 1
+24844d18486
+< slice 1
+24854d18495
+< slight 6
+24859d18499
+< slightingly 1
+24895d18534
+< slowly 3
+24918d18556
+< small 8
+24920d18557
+< smallest 4
+24922d18558
+< smart 2
+24941d18576
+< smile 1
+24944d18578
+< smiles 2
+24953d18586
+< smoke 2
+24958d18590
+< smoking 2
+24990d18621
+< snare 2
+25038d18668
+< so 68
+25054d18683
+< social 6
+25056d18684
+< society 3
+25069d18696
+< sofa 6
+25087d18713
+< sole 1
+25100,25101d18725
+< solicit 2
+< solicitation 1
+25106d18729
+< solicitors 1
+25108d18730
+< solid 1
+25113d18734
+< solitude 1
+25124d18744
+< some 43
+25128d18747
+< something 13
+25131d18749
+< sometimes 2
+25133,25134d18750
+< somewhat 8
+< somewhere 1
+25137d18752
+< son 2
+25140d18754
+< songs 1
+25148d18761
+< soon 6
+25150d18762
+< sooner 4
+25167d18778
+< sorrow 1
+25174d18784
+< sorry 5
+25176d18785
+< sort 4
+25186d18794
+< soul 1
+25192d18799
+< sound 2
+25197d18803
+< sounds 3
+25218d18823
+< sows 2
+25221d18825
+< space 2
+25223d18826
+< spade 3
+25229d18831
+< spare 1
+25244d18845
+< speak 19
+25247,25248d18847
+< speaking 3
+< speaks 2
+25255d18853
+< specially 4
+25258d18855
+< specific 1
+25261d18857
+< specified 2
+25278,25279d18873
+< speculating 1
+< speculation 1
+25281d18874
+< speculations 2
+25291d18883
+< spell 1
+25295d18886
+< spelled 1
+25299d18889
+< spend 1
+25306d18895
+< sphere 1
+25309d18897
+< spheres 1
+25343d18930
+< spite 1
+25370,25371d18956
+< spoke 2
+< spoken 1
+25400d18984
+< spread 1
+25410d18993
+< sprinkling 1
+25469d19051
+< staff 1
+25483d19064
+< stain 1
+25494d19074
+< stake 1
+25509d19088
+< stamp 1
+25517d19095
+< stand 3
+25521d19098
+< standing 3
+25542d19118
+< start 1
+25552d19127
+< starts 4
+25559d19133
+< state 12
+25564d19137
+< statements 1
+25569d19141
+< states 6
+25571d19142
+< station 3
+25574,25575d19144
+< stations 2
+< statistics 1
+25581d19149
+< status 4
+25584,25585d19151
+< stay 2
+< stayed 1
+25588d19153
+< staying 3
+25631d19195
+< steps 1
+25654d19217
+< still 8
+25667d19229
+< stirred 1
+25676d19237
+< stock 1
+25690d19250
+< stone 2
+25693d19252
+< stony 1
+25700d19258
+< stop 1
+25702d19259
+< stopped 1
+25706d19262
+< stops 1
+25709d19264
+< stored 1
+25718d19272
+< story 1
+25730d19283
+< straight 1
+25740,25741d19292
+< strange 6
+< strangely 1
+25774d19324
+< stress 2
+25784d19333
+< strict 1
+25786d19334
+< strictly 1
+25793d19340
+< strikes 1
+25809d19355
+< stroll 2
+25813d19358
+< strong 1
+25817d19361
+< strongly 2
+25820d19363
+< struck 1
+25823d19365
+< struggle 1
+25839d19380
+< study 1
+25864d19404
+< style 1
+25872d19411
+< subject 10
+25875d19413
+< subjects 1
+25883d19420
+< subscribe 1
+25890d19426
+< subsequently 1
+25908d19443
+< succeeded 1
+25911d19445
+< success 2
+25923d19456
+< such 22
+25930d19462
+< sudden 3
+25933d19464
+< suddenly 6
+25938d19468
+< suffer 1
+25940d19469
+< suffered 1
+25944d19472
+< suffering 1
+25955d19482
+< sugar 2
+25957d19483
+< suggest 1
+25966d19491
+< suit 1
+25974d19498
+< suits 3
+26040d19563
+< superior 1
+26061d19583
+< supplies 1
+26064d19585
+< support 4
+26071d19591
+< suppose 20
+26073d19592
+< supposed 1
+26075d19593
+< supposing 1
+26084d19601
+< sure 16
+26087d19603
+< surely 4
+26091d19606
+< surfaces 1
+26098d19612
+< surmised 1
+26107d19620
+< surprise 3
+26109d19621
+< surprised 1
+26113d19624
+< surrender 1
+26126d19636
+< survive 1
+26132d19641
+< susceptible 2
+26134d19642
+< suspect 2
+26137d19644
+< suspected 2
+26141d19647
+< suspense 1
+26161d19666
+< swamp 1
+26188d19692
+< sweeps 1
+26191d19694
+< sweet 8
+26194d19696
+< sweetest 1
+26197d19698
+< sweetly 1
+26200d19700
+< sweetness 1
+26245d19744
+< sympathies 1
+26252d19750
+< sympathy 1
+26259d19756
+< synonymous 1
+26263d19759
+< system 1
+26267d19762
+< t 168
+26270d19764
+< table 14
+26298d19791
+< take 16
+26301d19793
+< taken 2
+26303d19794
+< takes 5
+26306d19796
+< taking 2
+26315d19804
+< talk 18
+26318d19806
+< talked 1
+26322d19809
+< talking 3
+26326d19812
+< tall 3
+26338d19823
+< tampers 1
+26364d19848
+< task 3
+26369d19852
+< taste 2
+26387d19869
+< tax 6
+26389d19870
+< taxes 1
+26391d19871
+< tea 18
+26405d19884
+< tears 2
+26413d19891
+< tedious 3
+26417d19894
+< telegram 2
+26424d19900
+< tell 17
+26428d19903
+< telling 2
+26430d19904
+< tells 2
+26436d19909
+< temperance 1
+26446d19918
+< temporary 2
+26449d19920
+< temptation 1
+26455d19925
+< ten 3
+26486d19955
+< terms 22
+26490d19958
+< terrible 8
+26516,26517d19983
+< th 3
+< than 25
+26519d19984
+< thank 3
+26530d19994
+< that 293
+26535d19998
+< the 694
+26537d19999
+< theatre 1
+26543d20004
+< their 10
+26548d20008
+< them 33
+26553d20012
+< then 7
+26560d20018
+< theory 2
+26564d20021
+< there 42
+26571d20027
+< these 11
+26573d20028
+< they 20
+26592d20046
+< thing 25
+26594d20047
+< things 17
+26596d20048
+< think 62
+26600d20051
+< thinking 1
+26608d20058
+< third 1
+26619d20068
+< thirty 8
+26621d20069
+< this 91
+26630,26631d20077
+< thoroughly 4
+< those 2
+26635d20080
+< though 4
+26637,26638d20081
+< thought 6
+< thoughtful 1
+26642d20084
+< thoughtless 1
+26645d20086
+< thoughts 1
+26650d20090
+< thousand 3
+26669d20108
+< three 14
+26677d20115
+< thrift 1
+26679d20116
+< thrill 1
+26698,26699d20134
+< through 9
+< throughout 1
+26703d20137
+< throwing 1
+26706d20139
+< throws 1
+26732d20164
+< ticket 2
+26741d20172
+< tidings 1
+26745d20175
+< tied 1
+26758d20187
+< till 10
+26768d20196
+< time 35
+26771d20198
+< times 2
+26811d20237
+< tm 57
+26813d20238
+< to 641
+26827d20251
+< together 9
+26837d20260
+< told 13
+26856d20278
+< tone 2
+26860d20281
+< tongs 1
+26868d20288
+< too 16
+26874d20293
+< toothache 1
+26878d20296
+< top 1
+26881d20298
+< topic 1
+26918d20334
+< touch 2
+26920d20335
+< touched 1
+26936d20350
+< towards 4
+26946d20359
+< town 22
+26966d20378
+< trademark 10
+26971d20382
+< tradesmen 1
+26982d20392
+< tragedy 1
+26985d20394
+< tragic 2
+26988d20396
+< train 4
+26994d20401
+< trains 1
+27016d20422
+< transcribe 1
+27018d20423
+< transcription 1
+27052d20456
+< travel 1
+27064d20467
+< tray 1
+27074d20476
+< treat 2
+27076d20477
+< treated 1
+27080d20480
+< treatment 1
+27085d20484
+< tree 2
+27103d20501
+< trespassing 1
+27106d20503
+< trials 1
+27121d20517
+< tries 1
+27145,27146d20540
+< trivet 1
+< trivial 1
+27149d20542
+< triviality 2
+27160d20552
+< trot 2
+27165d20556
+< trouble 4
+27167d20557
+< troubles 1
+27183d20572
+< true 2
+27191d20579
+< trunks 1
+27193d20580
+< trust 3
+27195d20581
+< trusted 1
+27199d20584
+< trusting 1
+27203d20587
+< trusty 1
+27205d20588
+< truth 10
+27209d20591
+< try 5
+27235d20616
+< tune 1
+27250,27251d20630
+< turn 3
+< turned 2
+27253d20631
+< turning 1
+27259d20636
+< turns 2
+27272d20648
+< tutelage 1
+27280d20655
+< twenty 4
+27282d20656
+< twice 1
+27291d20664
+< twins 1
+27299d20671
+< two 12
+27301d20672
+< twopence 1
+27306d20676
+< txt 1
+27310d20679
+< types 1
+27346d20714
+< unalterable 1
+27359d20726
+< unbearable 2
+27378d20744
+< uncertainty 1
+27387d20752
+< uncle 6
+27414d20778
+< undeceive 1
+27417d20780
+< undeceived 1
+27421d20783
+< under 16
+27436d20797
+< understand 9
+27451d20811
+< undivided 1
+27456d20815
+< undoubtedly 1
+27469d20827
+< unenforceability 1
+27477d20834
+< unexpectedly 1
+27481d20837
+< unfair 2
+27484d20839
+< unfashionable 1
+27504,27505d20858
+< unfortunate 8
+< unfortunately 1
+27510d20862
+< unfriendly 1
+27517d20868
+< ungentlemanly 1
+27525d20875
+< unhappily 1
+27528d20877
+< unhappy 2
+27540d20888
+< uniform 1
+27557d20904
+< united 1
+27567d20913
+< unkind 1
+27573d20918
+< unknown 1
+27576d20920
+< unless 4
+27581d20924
+< unlink 1
+27590d20932
+< unmarried 2
+27595d20936
+< unmixed 1
+27601d20941
+< unnecessary 1
+27610d20949
+< unoccupied 1
+27614d20952
+< unpacked 1
+27626d20963
+< unpleasant 4
+27629d20965
+< unpleasing 1
+27638d20973
+< unpublished 1
+27649d20983
+< unreadable 1
+27664d20997
+< unromantic 1
+27668d21000
+< unsatisfactory 1
+27681d21012
+< unsolicited 1
+27686d21016
+< unsound 1
+27689d21018
+< unspoiled 1
+27714d21042
+< until 1
+27723d21050
+< untruthful 1
+27736d21062
+< unwell 1
+27752d21077
+< up 49
+27757d21081
+< uplifted 1
+27760,27761d21083
+< upon 9
+< upper 1
+27766d21087
+< upright 1
+27771d21091
+< upsetting 1
+27774d21093
+< upstairs 1
+27788d21106
+< us 28
+27791d21108
+< use 13
+27794,27795d21110
+< used 5
+< useful 1
+27801d21115
+< usen 1
+27803d21116
+< user 3
+27807d21119
+< using 4
+27809d21120
+< usual 4
+27811d21121
+< usually 10
+27816d21125
+< utilitarian 1
+27818d21126
+< utmost 1
+27824d21131
+< utterly 2
+27835,27836d21141
+< vaccination 1
+< vacillating 1
+27844d21148
+< vaguely 1
+27859d21162
+< valuable 1
+27862d21164
+< value 1
+27864d21165
+< valued 1
+27873d21173
+< vanity 1
+27882,27883d21181
+< variety 2
+< various 1
+27897d21194
+< ve 11
+27901d21197
+< vegetarians 1
+27928d21223
+< venture 1
+27933d21227
+< venturing 1
+27942d21235
+< verify 1
+27951d21243
+< version 1
+27956d21247
+< very 89
+27958d21248
+< vessels 1
+27964d21253
+< vestry 2
+27976d21264
+< vibrations 2
+27979d21266
+< vicinity 1
+27982d21268
+< victim 1
+27991d21276
+< view 1
+27993d21277
+< viewed 1
+27996d21279
+< viewing 1
+27999d21281
+< views 4
+28027d21308
+< violates 1
+28029d21309
+< violence 1
+28042d21321
+< virus 1
+28045d21323
+< visible 1
+28050d21327
+< visit 4
+28059d21335
+< vital 3
+28073d21348
+< voice 5
+28076d21350
+< void 1
+28083d21356
+< volume 4
+28087d21359
+< volunteer 1
+28091d21362
+< volunteers 5
+28107d21377
+< vulgar 4
+28138d21407
+< waist 1
+28143d21411
+< waists 1
+28145d21412
+< wait 8
+28148d21414
+< waiting 5
+28156d21421
+< walk 2
+28161d21425
+< walks 3
+28184d21447
+< want 13
+28186d21448
+< wanted 2
+28192d21453
+< wants 4
+28199d21459
+< ward 8
+28215d21474
+< warn 1
+28224d21482
+< warranties 1
+28238d21495
+< was 88
+28243d21499
+< washing 1
+28246d21501
+< wasn 2
+28249d21503
+< wasted 1
+28254d21507
+< watch 4
+28262d21514
+< water 2
+28266d21517
+< watering 2
+28286d21536
+< way 26
+28290d21539
+< ways 1
+28295,28296d21543
+< we 42
+< weak 2
+28301d21547
+< weaker 1
+28306d21551
+< weakness 1
+28309d21553
+< wealth 1
+28317d21560
+< wear 1
+28323d21565
+< wearing 1
+28330d21571
+< weather 5
+28336d21576
+< web 3
+28348d21587
+< week 12
+28352d21590
+< weeks 1
+28368d21605
+< welcome 1
+28373d21609
+< well 20
+28385d21620
+< went 2
+28388,28389d21622
+< were 24
+< weren 1
+28407,28408d21639
+< what 55
+< whatever 1
+28411d21641
+< whatsoever 5
+28421d21650
+< when 21
+28424d21652
+< whenever 5
+28427d21654
+< where 9
+28439d21665
+< whether 4
+28443d21668
+< which 23
+28482d21706
+< whistle 1
+28505d21728
+< who 50
+28509,28510d21731
+< whole 9
+< wholesome 1
+28515d21735
+< whom 6
+28520d21739
+< whooping 1
+28525d21743
+< whose 9
+28529d21746
+< why 16
+28534d21750
+< wicked 7
+28540d21755
+< wide 1
+28542d21756
+< widely 1
+28549d21762
+< widest 2
+28555d21767
+< wife 4
+28564d21775
+< wilderness 1
+28568d21778
+< wildly 2
+28577d21786
+< will 75
+28597d21805
+< window 1
+28604d21811
+< wine 2
+28620d21826
+< wipe 1
+28634d21839
+< wish 17
+28649d21853
+< with 147
+28661,28662d21864
+< within 4
+< without 19
+28673d21874
+< woe 1
+28683d21883
+< woman 9
+28687d21886
+< womanthrope 1
+28689,28690d21887
+< women 8
+< won 11
+28695d21891
+< wonderful 7
+28697d21892
+< wonderfully 3
+28728d21922
+< word 4
+28733d21926
+< work 51
+28738d21930
+< working 1
+28745d21936
+< works 32
+28750d21940
+< world 8
+28756d21945
+< worn 2
+28762d21950
+< worse 2
+28769d21956
+< worst 2
+28776d21962
+< would 65
+28778d21963
+< wouldn 5
+28781d21965
+< wounded 1
+28810d21993
+< wretched 1
+28825d22007
+< write 3
+28829d22010
+< writes 1
+28833d22013
+< writing 5
+28837,28838d22016
+< written 7
+< wrong 3
+28840d22017
+< wronged 1
+28844d22020
+< wrote 3
+28854d22029
+< www 10
+28874d22048
+< year 4
+28878d22051
+< years 15
+28893d22065
+< yes 5
+28896d22067
+< yesterday 5
+28899,28900d22069
+< yet 5
+< yew 1
+28914d22082
+< you 510
+28916d22083
+< young 24
+28919d22085
+< younger 5
+28922d22087
+< your 128
+28926d22090
+< yours 4
+28928d22091
+< yourself 3
+28943d22105
+< zip 1

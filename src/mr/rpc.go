@@ -24,6 +24,14 @@ type ExampleReply struct {
 	Y int
 }
 
+type VArgs struct {
+	Argc int
+}
+
+type VReply struct {
+	Value int
+}
+
 // Add your RPC definitions here.
 
 // Cook up a unique-ish UNIX-domain socket name

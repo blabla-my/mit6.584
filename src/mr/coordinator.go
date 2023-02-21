@@ -2,12 +2,15 @@ package mr
 
 import (
 	"fmt"
+	"io/ioutil"
 	"log"
 	"math/rand"
 	"net"
 	"net/http"
 	"net/rpc"
 	"os"
+	"strconv"
+	"strings"
 	"sync"
 )
 
@@ -26,14 +29,15 @@ const (
 )
 
 type Task struct {
-	tasktype int32
-	state    int32
-	id       int
+	Tasktype int32
+	State    int32
+	Id       int
 	/* for map Task */
-	keyValues []KeyValue
+	KeyValues []KeyValue
 	/* for reduce Task */
-	hashIdx           int
-	intermediateFiles []string
+	HashIdx           int
+	IntermediateFiles []string
+	R                 int
 }
 
 type Coordinator struct {
@@ -44,71 +48,88 @@ type Coordinator struct {
 }
 
 func CopyTask(tasksrc *Task, taskdst *Task) {
-	taskdst.tasktype = tasksrc.tasktype
-	taskdst.state = tasksrc.state
-	taskdst.id = tasksrc.id
-	taskdst.keyValues = tasksrc.keyValues
-	taskdst.intermediateFiles = tasksrc.intermediateFiles
+	taskdst.Tasktype = tasksrc.Tasktype
+	taskdst.State = tasksrc.State
+	taskdst.Id = tasksrc.Id
+	taskdst.KeyValues = tasksrc.KeyValues
+	taskdst.IntermediateFiles = tasksrc.IntermediateFiles
+	taskdst.R = tasksrc.R
+	taskdst.HashIdx = tasksrc.HashIdx
 }
 
 func (c *Coordinator) findReduceTaskByhash(hashidx int) *Task {
-	c.mutex.Lock()
-	defer c.mutex.Unlock()
+	// c.mutex.Lock()
+	// defer c.mutex.Unlock()
 	for i, _ := range c.Tasks {
-		if c.Tasks[i].tasktype == TYPE_REDUCE && c.Tasks[i].hashIdx == hashidx {
+		if c.Tasks[i].Tasktype == TYPE_REDUCE && c.Tasks[i].HashIdx == hashidx {
 			return &c.Tasks[i]
 		}
 	}
-	c.Tasks = append(c.Tasks, Task{tasktype: TYPE_REDUCE, state: TASK_IDLE, id: rand.Int(), hashIdx: hashidx})
+	c.Tasks = append(c.Tasks, Task{Tasktype: TYPE_REDUCE, State: TASK_IDLE, Id: rand.Int(), HashIdx: hashidx, R: c.R})
 	return &c.Tasks[len(c.Tasks)-1]
 }
 
+func (c *Coordinator) checkTasks() {
+	fmt.Println("------------------------------------------------------------------------------------------")
+	for i, _ := range c.Tasks {
+		fmt.Printf("%v, %v, %v, %v, %v\n", c.Tasks[i].Tasktype, c.Tasks[i].Id, c.Tasks[i].State, c.Tasks[i].HashIdx, c.Tasks[i].IntermediateFiles)
+	}
+}
+
 // Your code here -- RPC handlers for the worker to call.
-func (c *Coordinator) AllocateTask(args *interface{}, reply *Task) error {
+func (c *Coordinator) AllocateTask(args *VArgs, reply *Task) error {
 	// Lock the coordinator
 	c.mutex.Lock()
 	defer c.mutex.Unlock()
 
 	// Allocate map Task firstly
-
+	// log.Printf("Task length is %v", len(c.Tasks))
 	for i, _ := range c.Tasks {
-		if c.Tasks[i].tasktype == TYPE_MAP && c.Tasks[i].state == TASK_IDLE {
-			c.Tasks[i].state = TASK_RUNNING
+		if c.Tasks[i].Tasktype == TYPE_MAP && c.Tasks[i].State == TASK_IDLE {
+			c.Tasks[i].State = TASK_RUNNING
 			CopyTask(&c.Tasks[i], reply)
 			return nil
 		}
 	}
 	// If there is no map tasks, allocate reduce tasks
 	for i, _ := range c.Tasks {
-		if c.Tasks[i].tasktype == TYPE_REDUCE && c.Tasks[i].state == TASK_IDLE {
-			c.Tasks[i].state = TASK_RUNNING
+		if c.Tasks[i].Tasktype == TYPE_REDUCE && c.Tasks[i].State == TASK_IDLE {
+			c.Tasks[i].State = TASK_RUNNING
 			CopyTask(&c.Tasks[i], reply)
 			return nil
 		}
 	}
 
-	Tasknil := Task{tasktype: TYPE_NIL}
+	Tasknil := Task{Tasktype: TYPE_NIL, R: c.R}
 	CopyTask(&Tasknil, reply)
 	return nil
 }
 
-func (c *Coordinator) SubmitTask(task *Task, reply interface{}) error {
+func (c *Coordinator) SubmitTask(task *Task, reply *VReply) error {
 	c.mutex.Lock()
+	// fmt.Printf("Locked coordinator")
 	defer c.mutex.Unlock()
 
 	for i, _ := range c.Tasks {
-		if c.Tasks[i].id == task.id {
+		if c.Tasks[i].Id == task.Id {
 			CopyTask(task, &c.Tasks[i])
-			c.Tasks[i].state = TASK_COMPLETED
+			c.Tasks[i].State = TASK_COMPLETED
 		}
 	}
-	if task.tasktype == TYPE_MAP {
-		for _, kv := range task.keyValues {
-			hashidx := ihash(kv.Key) % c.R
+	if task.Tasktype == TYPE_MAP {
+		for _, file := range task.IntermediateFiles {
+			splits := strings.Split(file, "-")
+			hashidx, err := strconv.Atoi(splits[len(splits)-1])
+			if err != nil {
+				fmt.Println("Failed to atoi.")
+			}
 			reduceTask := c.findReduceTaskByhash(hashidx)
-			reduceTask.intermediateFiles = append(reduceTask.intermediateFiles, task.intermediateFiles...)
+			reduceTask.IntermediateFiles = append(reduceTask.IntermediateFiles, file)
+			// fmt.Println(c.Tasks)
 		}
 	}
+	// fmt.Println("Submit done.")
+	c.checkTasks()
 	return nil
 }
 
@@ -143,11 +164,35 @@ func (c *Coordinator) Done() bool {
 	defer c.mutex.Unlock()
 
 	for idx, _ := range c.Tasks {
-		if c.Tasks[idx].state != TASK_COMPLETED {
+		if c.Tasks[idx].State != TASK_COMPLETED {
 			return false
 		}
 	}
 	return true
+}
+
+func (c *Coordinator) createMapTask(filename string) error {
+	task := Task{R: c.R, Id: rand.Int()}
+
+	file, err := os.Open(filename)
+	if err != nil {
+		log.Fatalf("cannot open %v", filename)
+		return err
+	}
+	content, err := ioutil.ReadAll(file)
+	if err != nil {
+		log.Fatalf("cannot read %v", filename)
+		return err
+	}
+	file.Close()
+
+	task.Tasktype = TYPE_MAP
+	task.State = TASK_IDLE
+	task.KeyValues = append(task.KeyValues, KeyValue{filename, string(content)})
+
+	c.Tasks = append(c.Tasks, task)
+
+	return nil
 }
 
 // create a Coordinator.
@@ -160,6 +205,13 @@ func MakeCoordinator(files []string, nReduce int) *Coordinator {
 	defer c.mutex.Unlock()
 
 	fmt.Println("Coordinator start")
+	/* To make map tasks */
+	for _, filename := range files {
+		ok := c.createMapTask(filename)
+		if ok != nil {
+			log.Fatalf("Failed to initialize map task %v.", filename)
+		}
+	}
 	c.server()
 	return &c
 }
