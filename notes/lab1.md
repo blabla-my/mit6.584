@@ -1,6 +1,6 @@
 ## Summary: 
 
-- Lab1 implements a map-reduce system, including basic crash handles for workers.
+- Lab1 implements a map-reduce system, including basic crash handling for workers.
 - There is a coordinator running as a RPC server and tasks scheduler.
     - Splits input files to map tasks
     - Provide AllocateTask, which allocate a idle task to a worker
@@ -107,3 +107,11 @@ The worker's workflow is easy to understand, containing three steps in a loop:
 3. submit the task
 
 Allocating and submitting is achieved by RPC. Solving a task is similar to mrsequential.go. But after solving a map task, intermediate keyvalues should be marshal to json file; before solving a reduce task, intermediate keyvalues should be unmarshaled from json files provided by the coordinator.
+
+## Crash handling
+
+Sometimes a worker will crash while solving tasks. Then a task will never be submitted.
+
+The coordinator watches every running task to see if it is timeout. If so, the task's state will be reset to idle, waiting for another worker to allocate. This is achieved by a goroutine. I define a collector method for every running task. The collector thread will sleep 10 seconds and check if the task is still running. If so, it reset task id and state. 
+
+P.S. Task id is needed to reset, otherwise some race will happen. I haven't find the reason of that race. 

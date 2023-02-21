@@ -8,7 +8,7 @@ All tests have been passed.
 
 Summary: 
 
-- Lab1 implements a map-reduce system, including basic crash handles for workers.
+- Lab1 implements a map-reduce system, including basic crash handling for workers.
 - There is a coordinator running as a RPC server and tasks scheduler.
     - Splits input files to map tasks
     - Provide AllocateTask, which allocate a idle task to a worker
