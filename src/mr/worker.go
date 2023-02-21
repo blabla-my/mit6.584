@@ -108,7 +108,7 @@ func SolveTask(task *Task, mapf func(string, string) []KeyValue,
 			// fmt.Println(k)
 			if len(v) > 0 {
 				ofilename := "/tmp/mrwoker-inter-"
-				ofilename = ofilename + strconv.Itoa(task.Id) + "-"
+				ofilename = ofilename + strconv.Itoa(os.Getpid()) + "-" + strconv.Itoa(task.Id) + "-"
 				ofilename = ofilename + strconv.Itoa(k)
 				err := Marshal(&v, ofilename)
 				if err != nil {
@@ -132,7 +132,7 @@ func SolveTask(task *Task, mapf func(string, string) []KeyValue,
 		sort.Sort(intermediate)
 
 		/* secondly, get values together for reducef */
-		oname := "mr-out-" + strconv.Itoa(task.Id)
+		oname := "mr-out-" + strconv.Itoa(os.Getpid()) + "-" + strconv.Itoa(task.Id)
 		ofile, _ := os.Create(oname)
 		i := 0
 		for i < len(intermediate) {

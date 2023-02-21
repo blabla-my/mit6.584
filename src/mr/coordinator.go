@@ -12,6 +12,7 @@ import (
 	"strconv"
 	"strings"
 	"sync"
+	"time"
 )
 
 const (
@@ -72,8 +73,26 @@ func (c *Coordinator) findReduceTaskByhash(hashidx int) *Task {
 func (c *Coordinator) checkTasks() {
 	fmt.Println("------------------------------------------------------------------------------------------")
 	for i, _ := range c.Tasks {
-		fmt.Printf("%v, %v, %v, %v, %v\n", c.Tasks[i].Tasktype, c.Tasks[i].Id, c.Tasks[i].State, c.Tasks[i].HashIdx, c.Tasks[i].IntermediateFiles)
+		// fmt.Printf("%v, %v, %v, %v, %v\n", c.Tasks[i].Tasktype, c.Tasks[i].Id, c.Tasks[i].State, c.Tasks[i].HashIdx, c.Tasks[i].IntermediateFiles)
+		fmt.Printf("%v, %v, %v\n", c.Tasks[i].Tasktype, c.Tasks[i].Id, c.Tasks[i].State)
 	}
+}
+
+func (c *Coordinator) collector(taskId int) error {
+	for i, _ := range c.Tasks {
+		if c.Tasks[i].Id == taskId && c.Tasks[i].State == TASK_RUNNING {
+			time.Sleep(10 * time.Second)
+			c.mutex.Lock()
+			defer c.mutex.Unlock()
+			if c.Tasks[i].State == TASK_RUNNING {
+				c.Tasks[i].State = TASK_IDLE
+				c.Tasks[i].Id = rand.Int()
+				// fmt.Printf("Change id from %v to %v\n", taskId, c.Tasks[i].Id)
+			}
+			break
+		}
+	}
+	return nil
 }
 
 // Your code here -- RPC handlers for the worker to call.
@@ -84,19 +103,30 @@ func (c *Coordinator) AllocateTask(args *VArgs, reply *Task) error {
 
 	// Allocate map Task firstly
 	// log.Printf("Task length is %v", len(c.Tasks))
+	allMapCompleted := true
 	for i, _ := range c.Tasks {
+		if c.Tasks[i].Tasktype == TYPE_MAP && c.Tasks[i].State != TASK_COMPLETED {
+			allMapCompleted = false
+		}
 		if c.Tasks[i].Tasktype == TYPE_MAP && c.Tasks[i].State == TASK_IDLE {
 			c.Tasks[i].State = TASK_RUNNING
 			CopyTask(&c.Tasks[i], reply)
+			go c.collector(c.Tasks[i].Id)
+			// fmt.Println("[+] Main routine continues")
 			return nil
 		}
 	}
 	// If there is no map tasks, allocate reduce tasks
-	for i, _ := range c.Tasks {
-		if c.Tasks[i].Tasktype == TYPE_REDUCE && c.Tasks[i].State == TASK_IDLE {
-			c.Tasks[i].State = TASK_RUNNING
-			CopyTask(&c.Tasks[i], reply)
-			return nil
+
+	if allMapCompleted {
+		for i, _ := range c.Tasks {
+			if c.Tasks[i].Tasktype == TYPE_REDUCE && c.Tasks[i].State == TASK_IDLE {
+				c.Tasks[i].State = TASK_RUNNING
+				CopyTask(&c.Tasks[i], reply)
+				go c.collector(c.Tasks[i].Id)
+				// fmt.Println("[+] Main routine continues")
+				return nil
+			}
 		}
 	}
 
@@ -107,16 +137,16 @@ func (c *Coordinator) AllocateTask(args *VArgs, reply *Task) error {
 
 func (c *Coordinator) SubmitTask(task *Task, reply *VReply) error {
 	c.mutex.Lock()
-	// fmt.Printf("Locked coordinator")
 	defer c.mutex.Unlock()
-
+	task_found := false
 	for i, _ := range c.Tasks {
-		if c.Tasks[i].Id == task.Id {
+		if c.Tasks[i].Id == task.Id && c.Tasks[i].State == TASK_RUNNING {
+			task_found = true
 			CopyTask(task, &c.Tasks[i])
 			c.Tasks[i].State = TASK_COMPLETED
 		}
 	}
-	if task.Tasktype == TYPE_MAP {
+	if task_found && task.Tasktype == TYPE_MAP {
 		for _, file := range task.IntermediateFiles {
 			splits := strings.Split(file, "-")
 			hashidx, err := strconv.Atoi(splits[len(splits)-1])
@@ -129,7 +159,7 @@ func (c *Coordinator) SubmitTask(task *Task, reply *VReply) error {
 		}
 	}
 	// fmt.Println("Submit done.")
-	c.checkTasks()
+	// c.checkTasks()
 	return nil
 }
 
@@ -162,12 +192,13 @@ func (c *Coordinator) Done() bool {
 	// Your code here.
 	c.mutex.Lock()
 	defer c.mutex.Unlock()
-
+	// c.checkTasks()
 	for idx, _ := range c.Tasks {
 		if c.Tasks[idx].State != TASK_COMPLETED {
 			return false
 		}
 	}
+	// c.checkTasks()
 	return true
 }
 
@@ -204,7 +235,7 @@ func MakeCoordinator(files []string, nReduce int) *Coordinator {
 	c.mutex.Lock()
 	defer c.mutex.Unlock()
 
-	fmt.Println("Coordinator start")
+	// fmt.Println("Coordinator start")
 	/* To make map tasks */
 	for _, filename := range files {
 		ok := c.createMapTask(filename)
