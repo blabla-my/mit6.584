@@ -1,4 +1,5 @@
 pkg/
 api.key
+.vscode
 .api.key.trimmed
 *-handin.tar.gz
